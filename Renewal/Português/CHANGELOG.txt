@@ -3,6 +3,47 @@ Será postado aqui as atualizações feitas pelo servidor oficial bRO (Brasil Ra
 http://game.levelupgames.com.br/ragnarok/
 
 by JulioCF para o Cronus-Emulator
+// -------------- 01/10/2013 ----------------\\
+Link: http://levelupgames.uol.com.br/ragnarok/noticias/notas-de-atualizacao/notas-de-manutencao-de-01-10-13.lhtml
+
+01/10/2013
+Notas de Manutenção de 01/10/13
+
+As seguintes alterações foram realizadas durante a manutenção dos servidores de Ragnarök Online do dia 01/10/13:
+ 
+Novidades:
+- Implementadas novas missões do Grupo Éden;
+- Venda do Elmo Garra do Dragão [1] em todos os servidores até 07/10;
+- Venda do Livro de Encantamentos em todos os servidores até 07/10;
+- Venda de Itens de Odin e Thor no servidor Asgard até 07/10;
+- Concurso de Arte do Ragnarök até 13/10.
+ 
+Remoções:
+- Pacote do Atroce em todos os servidores;
+- Orelhas Brancas de Gatinho em todos os servidores;
+- Desconto de despedida de seis chapéus em Odin e Thor;
+- Promoção de ROPs Bonificados;
+- Mapas Especiais em todos os servidores;
+- Quest de Aniversário em todos os servidores.
+ 
+Anormalidades conhecidas:
+- O item "Tickets de Doação", referente ao acesso aos Mapas Especiais, não foi removido das contas dos jogadores durante a manutenção de 01/10/13. Eles serão removidos durante a manutenção semanal de 08/10/13. Caso ele esteja ocupando espaço no inventário, você pode vende-lo em qualquer NPC.
+- Os itens "Elmo Garras do Dragão [1]", "Chapéu de UFOring" e "Asas de Tapaton" não aparecem no personagem durante a seleção de personagens;
+- O NPC "Especialista BK" informa os nomes dos equipamentos sem tradução;
+- As missões do Grupo Éden "Treinamento Avançado 2.1 - Alma Penada" e "Treinamento Avançado 4.1 - Siromas" estão com o texto explicativo sem tradução, porém com os monstros traduzidos;
+- O item "Presas Vampíricas" apresenta uma instabilidade onde é possível recuperar HP e SP com algumas classes específicas. Esta anomalia será corrigida em manutenções futuras;
+- Alguns NPCs estão com o nome incompleto e serão corrigidos nas próximas manutenções;
+- É possível "girar" o mapa em "Interior de Malangdo" (mal_in01 e mal_in02);
+- Alguns itens aparecem como "Unknown Item", sem descrição e o sprite/ilustração de uma Maçã;
+- O sistema de identificação do MVP não reconhece o MVP Senhor da Morte de Nifflheim quando derrotado;
+- Se o seu personagem possuir uma cor alternativa, o sprite das montarias Leão (dos Cavaleiros, Templários e evoluções) e Avestruz (dos Arqueiros e evoluções) ficará com detalhes em um preto estranho, dando a impressão de que falta cor em partes da montaria;
+- A montaria da Raposa de Nove Caudas, quando usada por Magos e evoluções, parece estar flutuando;
+- Dar zoom máximo enquanto estiver montando nas novas montarias poderá gerar alguma anomalia visual, como ficar parecendo que parte da montaria está enterrada.
+ 
+As manutenções semanais são feitas com o objetivo de trazer o melhor da experiência de Ragnarök Online para você.
+ 
+Equipe Level Up!
+
 // -------------- 24/09/2013 ----------------\\
 Link: http://levelupgames.uol.com.br/ragnarok/noticias/notas-de-atualizacao/notas-de-manutencao-de-24-09-13.lhtml
 
