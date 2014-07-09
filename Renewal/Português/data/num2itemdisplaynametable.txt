@@ -40,6 +40,7 @@
 13050#Adaga#
 13051#Adaga#
 13112#Revólver#
+5873#Elmo#
 13113#Revólver#
 13423#Sabre#
 13424#Sabre#
@@ -84,6 +85,11 @@
 12731#Runa Thurisaz#
 12732#Runa Wyrd#
 12733#Runa Hagalaz#
+12734#Runa Bruta Forte#
+12735#Runa Bruta Antiga#
+12736#Runa Bruta Mística#
+12737#Runa Bruta Comum#
+12738#Runa Bruta Rara#
 12333#Ancilla#
 7931#Kit de Veneno#
 7932#Nerium#
@@ -1987,7 +1993,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Pacote_Gélido#
+7550#Ticket#
 7551#Nota_de_Fato_Engraçado#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -3130,7 +3136,6 @@
 14527#Pergaminho_de_Teleporte_para_Calabouço#
 
 // ---------------- ??? ??? -----------------
-13710#Passe_Anti-Gravitacional#
 7776#Passe_Anti-Gravitacional#
 
 // ---------------- ????? 20070702 -----------------
@@ -3391,8 +3396,6 @@
 5195#Laço#
 5196#Laço#
 5197#Laço#
-//7608#Ticket_do_Dia_das_Mães#
-7608#Ticket_de_Promoção#
 
 // --------------- Consumables -------------------
 12971#Caixa_de_Teleporte_1#
@@ -3831,7 +3834,7 @@
 2397#Capa da Corporação#
 5477#Brazilian_Flag#
 14346#Brazilian_Flag_Box#
-5379#??#
+5379#Chapéu#
 2640#Anel de Kafra#
 14004#Caixa de Garrafas de Veneno#
 7941#Ticket_de_Dia_das_Bruxas#
@@ -4281,7 +4284,6 @@
 5263#Chapéu#
 5499#Chapéu#
 5500#Chapéu#
-5409#Chapéu#
 7919#Ticket do Festival#
 
 //---- Pacotes Consumíveis Thor ----
@@ -4313,7 +4315,6 @@
 5470#Chapéu#
 5471#Chapéu#
 5801#Chapéu#
-5510#Chapéu#
 
 //---- Itens novos (DB) ----
 7303#Saco de Arroz#
@@ -4413,7 +4414,6 @@
 
 //---May 2009 Cash item---
 5495#Tiara#
-14469#Ovo de Majoruros#
 5503#Chapéu#
 5496#Chapéu#
 5505#Chapéu#
@@ -4428,7 +4428,6 @@
 //---- June 2009 cash item ----
 5529#Elmo#
 5502#Chapéu#
-14317#Pergaminho da Lady Branca#
 5527#Chapéu#
 13941#Ovo de Dia dos Namorados#
 5512#Elmo#
@@ -4448,7 +4447,6 @@
 2756#Anel de Planta [A]#
 
 //---- Festa Junina 2009 ----
-5572#Chapéu#
 11713#Doce da Joana#
 14374#Caixa de Fogos de Artifício Juninos#
 12326#Fogos de Artifício Juninos#
@@ -4477,7 +4475,6 @@
 2753#Anel do Caçador Veterano [A]#
 5508#Chapéu#
 14298#Ovo Surpresa#
-5800#Acessório#
 13516#Caixa de Geléia Real#
 14253#Caixa de Anel do Caçador de Morto-Vivo [A]#
 2754#Anel do Caçador de Morto-Vivo [A]#
@@ -4595,7 +4592,6 @@
 10025#Acessório#
 10027#Acessório#
 10034#Acessório#
-5530#Chapéu#
 
 //----Halloween 2009----
 12396#Caixa Surpresa#
@@ -4776,7 +4772,6 @@
 13704#Super Ovo 5#
 5822#Chapéu#
 6320#Pedra de Reset de Atributos#
-16555#Caixa de Pedra de Reset de Atributos#
 16556#Caixa de Pedra de Reset de Atributos#
 5662#Elmo#
 5663#Elmo#
@@ -4784,7 +4779,6 @@
 //----CASH Items January 2010----
 5588#Elmo#
 5589#Elmo#
-16257#Pergaminho Buda#
 12261#Medicina Secreta#
 5567#Elmo#
 15022#Vestimenta#
@@ -4878,7 +4872,6 @@
 13989#Caixa de Bomba Ácida [10]#
 14605#Pergaminho de Senhor dos Orcs#
 14598#Pergaminho de Ghostring#
-16562#Ovo do Mal Majestoso#
 16323#Caixa de Presilha Evoluída#
 2828#Presilha Evoluída#
 12965#Caixa de Chamado Urgente#
@@ -5170,7 +5163,6 @@
 
 //---- July CASH Items 2011 ----
 
-18539#Boné da Caveira#
 18534#Máscara Chique de Carnaval#
 17035#Ovo de Peixes#
 12563#Compêndio de Batalha#
@@ -5221,7 +5213,6 @@
 
 //---------2011 August CASH Items
 
-18532#Chapéu#
 18542#Chapéu#
 6413#Seguro Estendido#
 
@@ -5245,9 +5236,7 @@
 17123#Caixa_Máscara_Esquisita#
 17124#Caixa_Boné_de_Gatinho#
 17125#Caixa_Chapéu_de_Brioche#
-18599#Equipamento_para_Cabeça#
 18600#Equipamento_para_Cabeça#
-18601#Equipamento_para_Cabeça#
 18603#Equipamento_para_Cabeça#
 
 //-----------Golden Poring Event 2011
@@ -5302,7 +5291,6 @@
 2881#Acessório#
 5653#Chapéu#
 18549#Chapéu#
-18523#Chapéu#
 18531#Chapéu#
 5737#Chapéu#
 2874#Acessório#
@@ -5401,7 +5389,6 @@
 
 4480#Carta_Selada_Kiel#
 4481#Carta_Selada_Ktullanux#
-4482#Carta_selada_Egnigem_Cenia#
 4483#Carta_Selada_Dracula#
 4484#Carta_Selada_Abelha_Rainha#
 4485#Carta_Selada_Pesar_Noturno#
@@ -5434,7 +5421,6 @@
 //------------2012 February Items------------
 
 18596#Chapéu#
-1291#Katar#
 18580#Chapéu#
 18577#Chapéu#
 18595#Chapéu#
@@ -5472,14 +5458,12 @@
 12673#Ovo da Páscoa#
 18112#Arco#
 21000#Espada#
-6484#Livro de Encantamentos#
 17033#Pacote de Revestimento#
 17064#Ovo das Estrelas#
 5782#Chapéu#
 15049#Armadura#
 2589#Chapéu#
 5664#Chapéu#
-13070#Adaga#
 18597#Chapéu#
 18573#Chapéu#
 4808#Espírito do Lutador4#
@@ -5530,7 +5514,6 @@
 18684#Equipamento_para_cabeça#
 18620#Equipamento_para_cabeça#
 18593#Equipamento_para_cabeça#
-18575#Equipamento_para_cabeça#
 18612#Equipamento_para_cabeça#
 18613#Equipamento_para_cabeça#
 12791#Consumível#
@@ -5559,7 +5542,6 @@
 12834#Ovo_dos_Mortos-Vivos#
 6238#Pergaminho de Arma +11#
 6239#Pergaminho de Armadura +11#
-12664#Pergaminho_do_Golem#
 18668#Equipamento_para_Cabeça#
 2906#Acessório#
 17165#Kit_de_Sobrevivência#
@@ -5592,7 +5574,6 @@
 12800#Pergaminho_do_Ktullanux#
 18638#Equipamento_para_cabeça#
 18657#Equipamento_para_cabeça#
-12828#Ovo_de_Fogo#
 12822#Ovos_de_Chocolate_Branco[30]#
 
 //---------------------2012 August Items--------------------
@@ -5600,24 +5581,874 @@
 2176#Escudo#
 18639#Equipamento_para_cabeça#
 18590#Equipamento_para_cabeça#
-18642#Equipamento_para_cabeça#
-18643#Equipamento_para_cabeça#
-18644#Equipamento_para_cabeça#
 17181#Caixa_de_Madeira#
 14545#Super_Manual_de_Batalha#
 2164#Escudo#
 18631#Equipamento_para_cabeça#
 18645#Equipamento_para_cabeça#
 18646#Equipamento_para_cabeça#
+18683#Equipamento_para_cabeça#
+18669#Equipamento_para_cabeça#
 
-//-----------201208 skill balance update new items-------------
-//-----------rune description renewed
+//--------------------- Skill Balance ------------------------
 
-12734#Runa Bruta Forte#
-12735#Runa Bruta Antiga#
-12736#Runa Bruta Mística#
-12737#Runa Bruta Comum#
-12738#Runa Bruta Rara#
-6415#Embrião_Estranho#
+6415#Embrião Estranho#
+6111#Pedra Mística#
+6112#Planta Fresca#
+
+//---------------------2012 September Items--------------------
+
+18666#Blue-ray#
+18677#Ramo de Sakura#
+2914#Bênção de Mimir#
+2888#Mochila de Estudante#
+18660#Ornamento de Penas#
+4494#Carta General Tartaruga Selada#
+4495#Carta Amon Ra Selada#
+
+//---------------------8th bro anniversary hat--------------------
+
+18809#Bandana de 8º aniversário#
+
+
+//---------------------2012 October Items--------------------
+
+18694#Chapéu#
+18701#Chapéu#
+2936#Anel#
+2495#Botas#
+15061#Armadura#
+12852#Ovo do Patrono#
+13990#Caixa de Manual de Combate de Classe#
+4486#Carta Belzebu Selada#
+4504#Carta Eddga Selada#
+14132#Caixa do Anel Crítico Aprimorado#
+2835#Anel Crítico Aprimorado#
+14408#Ovo do Ano Novo#
+2165#Escudo#
+20701#Manteau#
+4502#Carta Mestre-ferreiro Howard Selada#
+4501#Carta Sumo-Sacerdotisa Margareta Selada#
+
+//---------------------2012 RWC Items--------------------
+1670#Cajado de uma mão#
+6665#Cupom#
+13092#Adaga#
+14611#Poção#
+14612#Poção#
+14613#Ovo não identificado#
+14614#Special_Potion#
+16026#Maça#
+17262#Special_Potion_Box#
+17262#Caixa não identificada#
+18821#Chapéu#
+19650#Chapéu#
+2966#Acessório#
+2967#Acessório#
+2968#Acessório#
+2969#Acessório#
+12887#Asa de Mosca Ilimitada#
+17251#Cx. Asa de Mosca Ilimitada#
+17252#Caixa Memorável do RWC#
+17253#Caixa Memorável do Anel RWC#
+17254#Caixa Memorável do Colar RWC#
+
+//-------RWC2012 enchant event material-------------
+4797#HP+300#
+4796#HP+200#
+4795#HP+100#
+4800#SP +50#
+4801#SP +100#
+4802#SP +150#
+4807#Vel. Ataque +1#
+4811#Espírito de Lutador Nv.1#
+4815#Conscent. Mágica Nv.1#
+4818#Ataque Preciso Nv.1#
+4819#ATQ +1%#
+4821#Espírito de Lutador Nv.6#
+4822#Espírito de Lutador Nv.7#
+4823#Espírito de Lutador Nv.8#
+4824#Espírito de Lutador Nv.9#
+4825#Espírito de Lutador Nv.10#
+4827#Conscent. Mágica Nv.6Lv#
+4828#Conscent. Mágica Nv.7Lv#
+4829#Conscent. Mágica Nv.8Lv#
+4830#Conscent. Mágica Nv.9Lv#
+4831#Conscent. Mágica Nv.10Lv#
+4832#Ataque à distância Nv.1Lv#
+4837#Ataque à distância Nv.6Lv#
+4838#Ataque à distância Nv.7Lv#
+4839#Ataque à distância Nv.8Lv#
+4840#Ataque à distância Nv.9Lv#
+4841#Ataque à distância Nv.10Lv#
+4842#Vel. Ataque +2#
+4859#Esquiva +1#
+4860#Esquiva +3#
+4861#MHP +1%#
+4862#MHP +2%#
+4867#MHP +3%#
+4868#MHP +4%#
+4870#SP +25#
+4871#SP +75#
+
+//----------2012 halloween---------------
+6654#Agulha e Linha#
+6655#Abóbora Firme#
+6656#Amuleto do Fantasma Livre#
+6657#Memória de Jack#
+6658#Moeda do Dia das Bruxas#
+18810#Chapéu#
+22514#Porta-doces#
+
+//---------------------2012 November Items--------------------
+
+18693#Chapéu#
+18698#Chapéu#
+18665#Chapéu#
+18702#Chapéu#
+18678#Chapéu#
+18703#Chapéu#
+12829#Ovo#
+18682#Chapéu#
+18679#Chapéu#
+4497#Carta Cavaleiro da Tempestade Selada#
+4498#Carta Lady Tanee Selada#
+
+//---------------------2012 December Items--------------------
+
+13080#Adaga#
+13084#Adaga#
+1494#Lança de Duas Mãos#
+18117#Arco#
+1318#Machado#
+18695#Chapéu#
+18729#Chapéu#
+18696#Chapéu#
+18728#Elmo#
+20700#Capa#
+17037#Cx Perg. Transformação: Deviruchi#
+12658#Perg. Transformação: Deviruchi#
+17042#Cx Perg. Transformação: Poring#
+12663#Perg. Transformação: Poring#
+17040#Cx Perg. Transform.: Marduk#
+12661#Perg. Transformação: Marduk#
+17041#Cx Perg. Transform.: Banshee#
+12662#Perg. Transformação: Banshee#
+17038#Cx Perg. Transform.: RaydricA.#
+12659#Perg. Transformação: RaydricA.#
+17039#Cx Perg. Transformação: Mavka#
+12660#Perg. Transformação: Mavka#
+17043#Cx Perg. Transformação: Golem#
+12664#Perg. Transformação: Golem#
+2561#Capuz Evoluído#
+
+//---------------------2012 Bifröst Items--------------------
+
+2156#Livro#
+2467#Sapatos#
+2468#Sapatos#
+2469#Sapatos#
+2470#Sapatos#
+2568#Capa#
+2858#Acessório#
+2859#Acessório#
+2860#Acessório#
+2861#Acessório#
+2862#Acessório#
+2864#Acessório#
+2865#Acessório#
+2866#Acessório#
+5792#Chapéu#
+15024#Armadura#
+15025#Armadura#
+15026#Armadura#
+15027#Armadura#
+15028#Armadura#
+2007#Cajado de Duas Mãos#
+2008#Cajado de Duas Mãos#
+2009#Cajado de Duas Mãos#
+2010#Cajado de Duas Mãos#
+12561#Semente_Misteriosa#
+12573#Cesta_de_Frutas#
+12574#Fruto_de_Mora#
+12575#Aljava_de_Flechas_Élficas#
+12576#Aljava_de_Flechas_de_Caça#
+6380#Moeda_de_Mora#
+6381#Pá_de_Campo#
+6382#Urna#
+6383#Pista_sobre_Lope#
+6384#Anel_de_Lope#
+6385#Bolsa_de_Ferramentas_de_Pesquisa#
+6386#Amostra_da_Água_do_Banho#
+6387#Dente#
+6388#Escama#
+6389#Amostra_da_Poça_para_Pesquisa#
+6390#Saco_Pequeno#
+6391#Kit_de_Suprimentos_Esplêndido#
+6392#Caixa_de_Bradium#
+6393#Pluma_Arredondada#
+6394#Pluma_Dourada#
+6395#Poder_Mágico_Angelical#
+4786#DEFM +2#
+4787#DEFM +4#
+4788#DEFM +6#
+4789#DEFM +8#
+4790#DEFM + 10#
+4791#DEF +3#
+4792#DEF +6#
+4793#DEF +9#
+4794#DEF + 12#
+4795#HP + 100#
+4796#HP + 200#
+4797#HP + 300#
+4798#HP + 400#
+4799#HP + 500#
+4800#SP + 50#
+4801#SP + 100#
+4802#SP + 150#
+4803#Cura Nv. 1#
+4804#Catolicismo Nv. 1#
+4805#Arcebispo Nv. 1#
+11519#Torrada_de_Carne#
+11520#Manga_de_Mora#
+11521#Suco_da_Fruta_de_Pingui#
+11522#Fluido_Vermelho_de_Refugo#
+11523#Fluido_Amarelo_de_Refugo#
+11524#Fluido_Branco_de_Refugo#
+11525#Chá_Exótico_de_Mora#
+11526#Esplenccino#
+1773#Flecha_Élfica#
+1774#Flecha_de_Caça#
+12608#Caixa Atrativa#
+12539#Caixa Convidativa#
+
+//Eden Group Items
+1197#Espada_de_Duas_Mãos#
+1289#Katar#
+1391#Machado#
+1434#Lança#
+1583#Livro#
+1658#Cajado#
+1831#Garra#
+1931#Instrumento Musical#
+1986#Chicote#
+2473#Sapatos#
+2571#Capa#
+13066#Punhal#
+13310#Shuriken_Huuma#
+13114#Revólver#
+13434#Espada#
+15031#Armadura#
+15033#Vestimenta#
+15034#Vestimenta#
+16014#Maça#
+18106#Arco#
+18514#Chapéu#
+
+//------------------Ep.14.1 Cards---------------------------------
+4456#Carta Sombra do Guardião#
+4457#Carta Naght Sieger#
+4458#Carta Duneyrr#
+4459#Carta Rata#
+4460#Carta Rhyncho#
+4461#Carta Phylla#
+4462#Carta Mamute Rochoso#
+4463#Carta Leão de Vinhas#
+4464#Carta Aunoe#
+4465#Carta Fanat#
+4466#Carta Mestre Beholder#
+4467#Carta Heavy Metaling#
+4468#Carta Pinguicula Sombria#
+4469#Carta Naga#
+4470#Carta Nepenthes#
+4471#Carta Ovo de Draco#
+4472#Carta Golem de Bradium#
+4473#Carta Árvore Anciã#
+4474#Carta Zakudam#
+4475#Carta Cobalto#
+4476#Carta Pinguicula#
+4477#Carta Apocalipse Infernal#
+
+
+//------------------Ep.14.1 AB Items---------------------------------
+2471#Sapato#
+2472#Sapatoo#
+2569#Manto#
+2570#Manto#
+15029#Túnica#
+15030#Túnica#
+1657#Cajado#
+16013#Maça#
+
+
+//------------------Natal 2012 Items---------------------------------
+
+6681#Biscoitos Roubados#
+6682#Sacola de Itens Roubados#
+18850#Chapéu#
+19707#Visual#
+
+
+//------------------January 2013 Items---------------------------------
+
+18662#Chapéu#
+18680#Chapéu#
+12826#Wind_Type_Scroll#
+18641#Chapéu#
+18681#Chapéu#
+12530#Caixa_de_Mastelas[200]#
+
+//------------------February 2013 Items---------------------------------
+
+12798#Assistente Jirtas#
+12797#Assistente Dama dos Desejos#
+18674#Planewing_Hat#
+18667#Cat_Lace_Hairband#
+18636#Bridal_Ribbon#
+12851#Vocation_Scroll#
+18664#Blind_Glasses #
+18855#Chapéu de Dantos Sumont#
+18675#Green_Apple_Hat #
+18697#Syringe_In_Mouth#
+13438#Magical_Blade#
+
+//------------------2013 ep14.1 malangdo---------------------------
+1198#Espada de duas mãos#
+1489#Lança de duas mãos#
+2872#Acessório#
+2873#Acessório#
+13208#Tatu Bola#
+16740#Caixa de Proteção do Deus do Mar#
+16741#Caixa com pelo de cauda1#
+16742#Caixa com pelo de cauda2#
+16743#Caixa com marlim1#
+16744#Caixa com marlim2#
+16745#Caixa com saurel1#
+16746#Caixa com saurel2#
+16747#Caixa com atum1#
+16748#Caixa com atum2#
+16749#Caixa com caranguejo de Malang1#
+16750#Caixa com caranguejo de Malang2#
+18107#Caranguejo da neve de Malang#
+18108#Arco#
+18536#Acessório #
+18537#Faixa de cabelo#
+6417#Silvervine_Fruit#
+6418#Aclass_Coin#
+6419#Bclass_Coin#
+6420#Cclass_Coin#
+6421#Dclass_Coin#
+6422#Dclass_Coin#
+6423#Seagod_Anger#
+6426#Poor_Can#
+6427#Poor_Can_Sack#
+16751#Spotty_Eel_Box1#
+16752#Spotty_Eel_Box2#
+16763#Seagod's_Protection_Box2#
+16764#Seagod's_Protection_Box3#
+16765#Octopus_Hstick_Box#
+16766#Octopus_Hstick_Box2#
+16767#Octopus_Hstick_Box3#
+16770#Silvervine_Box10#
+16771#Silvervine_Box40#
+16979#Silvervine_Box4#
+17013#Malang_Woe_Encard_Box#
+6428#Adventure_Card_A#
+6429#Adventure_Card_B#
+6430#Fragment_of_Picture#
+6431#Balde#
+6432#All_Filled_Bucket#
+6433#Cleaning_Brush#
+6434#Fixing_Kit#
+6435#Fresh_Fruit#
+6436#Seagod's_Protection#
+6440#Ordinary_Lubricant#
+6441#Premium_Lubricant#
+6442#Octopus_Hunting_Stick#
+6443#Sillit_Pong#
+11536#Cat's_Ship_Biscuit#
+11537#Weevil_Bug_Worm#
+12612#Shabby_Coin_Bag#
+12613#Premium_Coin_Bag#
+12614#Normal_Coin_Bag#
+12615#Poor_Coin_Bag#
+12616#S_Grade_Coin_Bag#
+12617#Agrade_Pocket#
+12618#Bgrade_Pocket#
+12619#Cgrade_Pocket#
+12620#Dgrade_Pocket#
+12621#Egrade_Pocket#
+12623#High_Weapon_Box#
+12624#Delicious_Jelly#
+12633#Malang_Cat_Can#
+12636#Malang_Sp_Can#
+12637#Gong_Bug_Pocket#
+12638#Dried_Squid_Box#
+12639#Flying_Fish_Box#
+12640#Starfish_Box#
+12643#E_Coin_Pack50#
+13068#Adaga#
+13291#Estrela-do-mar#
+13292#Dried_Squid#
+13293#Flying_Fish#
+16015#Taco#
+16016#Taco#
+12531#Caixa de Poções Brancas#
+6451#Peixe Desconhecido#
+
+//------------------March2013 Items---------------------------------
+
+5788#Chapéu#
+18699#Chapéu#
+18727#Chapéu#
+18692#Chapéu#
+12850#Heaven_Scroll#
+18700#Chapéu#
+4503#Carta Vesper Selada#
+14531#Perg. de Precisão Apurada#
+18856#Chapéu#
+
+//------------------April2013 Items---------------------------------
+18647#Chapéu#
+18648#Chapéu#
+12853#Patron_Scroll#
+17178#Cx. Água Milagrosa[50]#
+12832#Água Milagrosa#
+17224#Bolinho Divino[10]#
+12883#Bolinho Divino#
+ 
+1562#Livro#
+
+//-----------------May 2013 items-----------------------------------
+19541#Visual#
+13081#Adaga#
+
+//-------Abismo 2013Q2------------
+1293#Katar#
+1294#Katar#
+1395#Machado#
+1396#Machado#
+1436#Lança#
+1492#Lança#
+1586#Livro#
+1587#Livro#
+1661#Cajado#
+1775#Flecha de Cerco S#
+1776#Flecha de Cerco A#
+1832#Garra#
+2016#Cajado#
+2483#Sapato#
+2484#Sapato#
+2485#Sapato#
+2586#Manto#
+2587#Manto#
+2894#Acessório#
+2898#Acessório#
+2899#Acessório#
+6488#Bilhete de Agradecimento por Investimento#
+6489#Certificado de Investimento dos Gatos#
+11547#Poção Violeta de GdE#
+11548#Poção Branca de GdE#
+11549#Poção Azul de GdE#
+12674#Caixa de Materiais de Itens Divinos#
+12675#Caixa de Suprimento de Armas de GdE#
+12676#Caixa de Poções Violeta de GdE#
+12677#Aljava de Flechas de GdE S#
+12678#Aljava de Flechas de GdE A#
+12679#Caixa de Poções Brancas de GdE#
+12680#Caixa de Poções Azuis de GdE#
+12683#Caixa de Poções Violeta de GdE 200#
+13072#Adaga#
+15046#Armadura#
+15047#Armadura#
+15048#Armadura#
+16020#Clava#
+16021#Clava#
+18113#Arco#
+18114#Arco#
+21001#Espada#
+21002#Espada#
+
+//-------------2013Q2-4º Laboratório Biológico---------------------------
+1290#Katar#
+1291#Katar#
+1392#Machado#
+1393#Machado#
+1435#Lança#
+1490#Lança#
+1584#Livro#
+1659#Cajado#
+2160#Escudo#
+2161#Livro#
+2162#Livro#
+2582#Capa#
+2892#Acessório#
+6469#Vontade do Guerreiro#
+6470#Sede de Sangue#
+6471#Frio dos Mortos#
+13069#Adaga#
+13070#Adaga#
+15044#Vestimenta#
+16017#Maça#
+18109#Arco#
+18110#Arco#
+18111#Arco#
+18570#Equipamento para a Cabeça#
+
+----------------------
+
+17176#Cx Rédea Experimental 3 Dias#
+17162#Cx Rédea Experimental 7 Dias#
+12532#Cx Geléia Real[100]#
+12293#Fruto de Yggdrasil Desidratado#
+12292#Fruto de Yggdrasil Amargo#
+
+//------------------Q3 - 2013 Items---------------------------------
+
+18754#Item não-identificado#
+19589#Item não-identificado#
+19607#Equipamento para Cabeça#
+19649#Equipamento para Cabeça#
+19661#Equipamento para Cabeça#
+19685#Equipamento para Cabeça#
+2190#Escudo#
+18885#Equipamento para Cabeça#
+18889#Equipamento para Cabeça#
+18890#Equipamento para Cabeça#
+18891#Equipamento para Cabeça#
+18892#Equipamento para Cabeça#
+18893#Equipamento para Cabeça#
+18894#Acessório#
+18895#Acessório#
+18896#Equipamento para Cabeça#
+18898#Equipamento para Cabeça#
+// ---------- Port Malaya new items ------------
+2169#Escudo#
+2170#Escudo#
+2491#Bota#
+2492#Bota#
+2590#Capuz#
+2591#Capuz#
+2907#Acessório#
+2910#Acessório#
+2911#Acessório#
+9059#Ovo de Tikbalang#
+15051#Armadura#
+15052#Armadura#
+12699#Cinturão de Tikbalang#
+12700#Camiseta do Avesso#
+12775#Agimat Superior do Espírito Ancião#
+6496#Espinha Grossa de Tikbalang#
+6497#Agimat Menor#
+6498#Jejellopy#
+6499#Rancor Antigo#
+6500#Bambu Afiado#
+6501#Sacola de Sal#
+6502#Cruz de Prata#
+6503#Proteção Espiritual#
+6504#Caldeirão de Ferro Fundido#
+6505#Osso Purificado de Espírito#
+6506#Buquê de Oferenda#
+6507#Osso Maligno de Espírito#
+6508#Bracelete de Prata#
+6509#Flor Misteriosa#
+6510#Flor Elegante#
+6511#Flor Bonita#
+6516#Boneco de Bakonawa#
+6517#Boneco de Bangungot#
+6518#Boneco de Buwaya#
+6519#Amostra Coletada#
+6520#Pertences Perdidos#
+6523#Peça de Espírito de Bakonawa#
+6524#Peça de Espírito de Bangungot#
+6525#Peça de Espírito de Buwaya#
+
+//--------------2013 Halloween event---------------
+11550#Bolo de Abóbora#
+22669#Caixa de Halloween#
+22670#Convite Sombrio#
+19917#Chapéu#
+19918#Máscara#
+6804#Abóbora Orgânica#
+6805#Abóbora Inorgânica#
+19919#Máscara#
+19920#Máscara#
+19903#Chapéu#
+
+12582#Cx Suprimentos do Cerco#
+
+12534#Cx Sementes Yggdrasil#
+
+18957#Equipamento para Cabeça#
+
+13999#Cx Bala Amarga [100]#
+
+//-----Poção de ASPD e Biscoitos
+17270#Cx Palitos de Laranja[20]#
+17271#Cx Palitos de Chocolate[20]#
+17272#Cx Palitos de Baunilha[20]#
+17273#Cx Palitos de Cassis[20]#
+17274#Cx Palitos de Limão[20]#
+17275#Cx Palitos de Morango[20]#
+14616#Palitos de Laranja#
+14617#Palitos de Chocolate#
+14618#Palitos de Baunilha#
+14619#Palitos de Cassis#
+14620#Palitos de Limão#
+14621#Palitos de Morango#
+
+//Caixas de Refinamento
+
+17281#Caixa_de_Refinamento[5]#
+17282#Caixa_de_Refinamento[50]#
+17283#Caixa_de_Refinamento[100]#
+
+//-----BlackFriday
+19767#Equipamento visual#
+19768#Equipamento visual#
+19769#Equipamento visual#
+19770#Equipamento visual#
+19771#Equipamento visual#
+19772#Equipamento visual#
+19773#Equipamento visual#
+19774#Equipamento visual#
+19776#Equipamento visual#
+19775#Equipamento visual#
+17305#Ovo Fashion#
+
+//-----Costama Egg05 XMAS
+17269#Ovo Natalino#
+19677#Equipamento visual#
+19678#Equipamento visual#
+19681#Equipamento visual#
+19682#Equipamento visual#
+19683#Equipamento visual#
+19684#Equipamento visual#
+19685#Equipamento visual#
+19679#Equipamento visual#
+19680#Equipamento visual#
+19540#Equipamento visual#
+
+//------------------Q4 - 2013 Items---------------------------------
+18910#Equipamento para Cabeça#
+18918#Equipamento para Cabeça#
+
+4869#Vel. Ataque 2#
+4872#Vel. Ataque 3#
+4873#Vel. Ataque 4# 
+4863#Crítico 1#
+4864#Crítico 2#
+4865#Crítico 3#
+4866#Crítico 4#
+
+//XMAS 2013
+19976#Chapéu de Gato Natalino#
+22685#Presente de Natal dos Solteiros#
+6821#Insígnia de Tropas dos Solteiros#
+22686#Biscoito dos Solteiros#
+
+//----Janeiro 2014
+6831#Ticket de Rune-Midgard#
+18909#Equipamento para Cabeça#
+5874#Equipamento para Cabeça#
+12790#Cartão de Troca de Nome#
+
+//---2014-02-04
+4624#Carta Tao Gunka Selada#
+5875#Equipamento para Cabeça#
+18897#Equipamento para Cabeça#
+19777#Equipamento Visual#
+4482#Carta_selada_Egnigem_Cenia#
+
+//-------------------------------------------------------------------
+//--2014-02-11
+18868#Equipamento para Cabeça#
+17323#Ovo Shinobi#
+19548#Equipamento Visual#
+19555#Equipamento Visual#
+19566#Equipamento Visual#
+19801#Equipamento Visual#
+19802#Equipamento Visual#
+19803#Equipamento Visual#
+19804#Equipamento Visual#
+19805#Equipamento Visual#
+19806#Equipamento Visual#
+19807#Equipamento Visual#
+5510#Equipamento para Cabeça#
+5409#Equipamento para Cabeça#
+5572#Equipamento para Cabeça#
+5530#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//--Jumping Character
+22521#Caixa de Jornada Nv80#
+22522#Caixa de Jornada Nv100#
+22523#Caixa de Jornada Nv120#
+22524#Caixa de Jornada Nv130#
+22525#Caixa de Jornada Nv140#
+22526#Caixa de Jornada Nv150#
+12766#Manual de Campo de Classe#
+12529#Cx Poção Compacta Branca#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//--Aplicar em 2014-02-18
+18574#Equipamento para Cabeça#
+2177#Escudo#
+18864#Equipamento para Cabeça#
+18878#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//--Aplicar em 2014-02-25
+18857#Equipamento para Cabeça#
+18832#Equipamento para Cabeça#
+18887#Equipamento para Cabeça#
+18888#Equipamento para Cabeça#
+16562#Ovo do Mal Majestoso#
+12827#Ovo do 8º Aniversário#
+14317#Pergaminho da Lady Branca#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//Carnival Quest - 2014
+6834#Pelo Lendário#
+6835#Crina Lendária#
+19996#Cavalo Rei#
+12536#Sopa de Arroz e Polvo#
+22538#Bolsa de Tecidos#
+12646#Polvo Assado#
+12647#Bola de Tinta de Polvo#
+11538#Tentáculo Fresco de Polvo#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//2014-03-11
+2985#Acessório#
+16555#Caixa de Pedra de Reset de Atributos#
+13710#Passe_Antigravitacional[1]#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//2014-03-18
+//Todos os servidores
+18532#Equipamento para Cabeça#
+//Odin/Thor
+18908#Equipamento para Cabeça#
+//Odin
+16257#Ovo do Amanhecer#
+//Thor
+12828#Ovo_de_Fogo#
+//asgard
+14469#Ovo de Majoruros#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//2014-03-25
+//Todos os servidores
+18575#Equipamento para Cabeça#
+2188#Escudo#
+18900#Equipamento para Cabeça#
+18901#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//2014-04-01
+//Todos os servidores
+18929#Equipamento para Cabeça#
+18601#Equipamento_para_Cabeça#
+18539#Equipamento para Cabeça#
+18523#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+
+//---------------------------2014-04-08------------------------------
+//Kagerou-Oboro
+2171#Escudo#
+2172#Escudo#
+2173#Escudo#
+6493#Makibishi#
+6512#Talismã de Fogo#
+6513#Talismã de Gelo#
+6514#Talismã de Vento#
+6515#Talismã de Terra#
+13074#Adaga#
+13075#Adaga#
+13076#Adaga#
+13077#Adaga#
+13078#Adaga#
+13294#Kunai Explosiva#
+13311#Shuriken Huuma#
+13312#Shuriken Huuma#
+13313#Shuriken Huuma#
+13314#Shuriken Huuma#
+13315#Shuriken Huuma#
+13316#Shuriken Huuma#
+15053#Armadura#
+15054#Armadura#
+15055#Armadura#
+15056#Armadura#
+17155#Cx Shuriken Huuma Aprimorado#
+2904#Naqsh#
+
+// Odin e Thor
+18599#Equipamento para Cabeça#
+6484#Livro de Encantamentos#
+// Asgard
+5800#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+
+//---------------------------2014-04-15------------------------------
+//Todos os servidores
+19627#Equipamento para Cabeça#
+17428#Ovo de Lagomorfo#
+19875#Equipamento para Cabeça#
+19876#Equipamento para Cabeça#
+19877#Equipamento para Cabeça#
+19878#Equipamento para Cabeça#
+19879#Equipamento para Cabeça#
+19880#Equipamento para Cabeça#
+19881#Equipamento para Cabeça#
+19882#Equipamento para Cabeça#
+19883#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+
+//---------------------------2014-04-29------------------------------
+18863#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+
+//---------------------------2014-05-07------------------------------
+18932#Equipamento para Cabeça#
+18642#Equipamento para Cabeça#
+18643#Equipamento para Cabeça#
+18644#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+
+//---------------------------2014-05-20------------------------------
+19836#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+
+//---------------------------2014-06-03------------------------------
+18931#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+//---------------------------2014-06-10------------------------------
+19729#Equipamento Visual#
+19598#Equipamento Visual#
+//-------------------------------------------------------------------
+//--Aplicar em 17/06/2014 - Todos os servidores  ---------------------------------------------
+19742#Equipamento Visual#
+18907#Equipamento para Cabeça#
+18917#Máscara#
+19718#Equipamento Visual#
+19721#Equipamento Visual#
+18930#Equipamento para Cabeça#
+//------------------------------------------------------------
+//--Aplicar em 24/06/2014 - Todos os servidores  ---------------------------------------------
+7608#Ticket de Aniversário#
+//------------------------------------------------------------
+//--Aplicar em 01/07/2014 - Todos os servidores  ---------------------------------------------
+12194#Marmita da Mamãe#
+2959#Acessório#
+18756#Equipamento para Cabeça#
 
 //file end

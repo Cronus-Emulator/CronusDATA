@@ -1,4 +1,25 @@
 //∏ ¿Ã∏ß.rsw#bgm\\¿Ωæ«π¯»£#
+moc_prydn1.rsw#bgm\\22.mp3#
+moc_prydn2.rsw#bgm\\22.mp3#
+//port malaya to add
+ma_zif09.rsw#bgm\\149.mp3#
+ma_zif08.rsw#bgm\\149.mp3#
+ma_zif07.rsw#bgm\\149.mp3#
+ma_zif06.rsw#bgm\\149.mp3#
+ma_zif05.rsw#bgm\\149.mp3#
+ma_zif04.rsw#bgm\\149.mp3#
+ma_zif03.rsw#bgm\\149.mp3#
+ma_zif02.rsw#bgm\\149.mp3#
+ma_zif01.rsw#bgm\\149.mp3#
+ma_in01.rsw#bgm\\149.mp3#
+ma_scene01.rsw#bgm\\153.mp3#
+ma_fild02.rsw#bgm\\153.mp3#
+ma_fild01.rsw#bgm\\153.mp3#
+1@ma_c.rsw#bgm\\152.mp3#
+1@ma_b.rsw#bgm\\151.mp3#
+1@ma_h.rsw#bgm\\150.mp3#
+ma_dun01.rsw#bgm\\150.mp3#
+malaya.rsw#bgm\\149.mp3#
 gld_dun01_2.rsw#bgm\\44.mp3#
 gld_dun02_2.rsw#bgm\\44.mp3#
 gld_dun03_2.rsw#bgm\\44.mp3#
@@ -139,7 +160,6 @@ moc_fild20.rsw#bgm\\120.mp3#
 moc_fild21.rsw#bgm\\120.mp3#
 moc_fild22.rsw#bgm\\121.mp3#
 que_moc_16.rsw#bgm\\45.mp3#
-que_moon.rsw#bgm\\65.mp3#
 bossnia_01.rsw#bgm\\50.mp3#
 bossnia_02.rsw#bgm\\50.mp3#
 bossnia_03.rsw#bgm\\50.mp3#
@@ -774,3 +794,4 @@ pvp_y_8-5.rsw#bgm\\119.mp3#
 pvp_y_room.rsw#bgm\\52.mp3#
 pvp_2vs2.rsw#bgm\\02.mp3#
 pvp_room.rsw#bgm\\52.mp3#
+que_moon.rsw#bgm\\65.mp3#
