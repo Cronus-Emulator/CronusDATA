@@ -453,6 +453,28 @@
 4453#da Violência#
 4454#Ceifadeiro#
 4455#Feya#
+4456#do Arcano#
+4457#Pisíquica#
+4458#da Ilusão#
+4459#do Conjurador#
+4460#do Curandeiro#
+4461#da Forma#
+4462#da Defesa Prima#
+4463#do Ataque Primo#
+4464#do Ataque Crítico#
+4465#da Espada Leve#
+4466#do Tiro Preciso#
+4467#Pesado#
+4468#Hera Venenosa#
+4469#Antipeixe#
+4470#Antibotanica#
+4471#Antidragão#
+4472#Antifera#
+4473#Antizumbi#
+4474#Mortal#
+4475#Antidisforme#
+4476#Anti-inseto#
+4477#Antidemoniaca#
 4480#da Recarga Selada#
 4481#do Jack Frost Selado#
 4482#da Juventude Selada#
@@ -462,3 +484,15 @@
 4478#Estranha Verdade#
 4479#Estranha Mentira#
 4491#da Pressão Selada#
+4494#Explosão Selada#
+4495#da Proteção Selada#
+4497#Causador de Tempestade Selada#
+4498#da Magia Plena Selada#
+4499#Desejo Sangrento Selado#
+4500#de Espelhos Selados#
+4501#do Arcanjo Selado#
+4502#do Hollgrehenn Selada#
+4503#da Visão Selada#
+4504#de Heimdall Selada#
+4486#do Ventríloquo Selada#
+4624#do Alto Risc Selado#

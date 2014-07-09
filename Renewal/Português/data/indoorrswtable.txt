@@ -1,8 +1,25 @@
-//º»¼­¹ö 10.09.29
+ma_scene01.rsw#
+ma_in01.rsw#
+ma_zif01.rsw#
+ma_zif02.rsw#
+ma_zif03.rsw#
+ma_zif04.rsw#
+ma_zif05.rsw#
+ma_zif06.rsw#
+ma_zif07.rsw#
+ma_zif08.rsw#
+ma_zif09.rsw#
+//-----------
+evt_mobroom.rsw#
+mal_in01.rsw#
+mal_in02.rsw#
+que_house_s.rsw#
 dew_in01.rsw#
 dic_in01.rsw#
 bra_in01.rsw#
+s_atelier.rsw#
 moc_para01.rsw#
+job3_gen01.rsw#
 job3_guil01.rsw#
 job3_guil02.rsw#
 man_in01.rsw#
@@ -89,10 +106,3 @@ ve_in.rsw#
 ve_in02.rsw#
 que_thor.rsw#
 nameless_in.rsw#
-
-//-------- moscovia-------
-mosk_in.rsw#
-//---13.2------
-man_in01.rsw#
-spl_in01.rsw#
-spl_in02.rsw#

@@ -372,7 +372,7 @@ volte a Buender Hikeman.#
 
 2079#O passado deu errado#SG_FEEL#QUE_NOIMAGE#
 Kain Himere, da equipe do aeroplano, pede que você entregue um pacote no hotel de Einbroch.#
-Wntregue o pacote perdido no hotel de Einbroch.#
+Entregue o pacote perdido no hotel de Einbroch.#
 
 2080#O passado deu errado#SG_FEEL#QUE_NOIMAGE#
 Elle Cherno, que você encontrou no hotel, pede que você fale com a mãe dela na casa atrás do hotel.#
@@ -583,19 +583,19 @@ Fale com o capitão da Expedição da Aliança#
 
 // Ep13.2
 2179#A Pesquisa Continua#SG_FEEL#QUE_NOIMAGE#
-O cientista Lifeguard de Manuk quer que você leve um mineral de Midgard para ele. O mineral pode ser encontrado no Monte Mjolnir com um radar.#
+O cientista Dr. Salvador de Manuk quer que você leve um mineral de Midgard para ele. O mineral pode ser encontrado no Monte Mjolnir com um radar.#
 10 Minerais Brutos#
 
-2180#Research Continues#SG_FEEL#QUE_NOIMAGE#
-O cientista Lifeguard de Manuk quer que você leve um mineral de Midgard para ele. O mineral pode ser encontrado em Schwartzwald, na morada de um dragão, com um radar.#
+2180#A Pesquisa Continua#SG_FEEL#QUE_NOIMAGE#
+O cientista Dr. Salvador de Manuk quer que você leve um mineral de Midgard para ele. O mineral pode ser encontrado em Schwartzwald, na morada de um dragão, com um radar.#
 5 Minerais Brutos#
 
-2181#Research Continues#SG_FEEL#QUE_NOIMAGE#
-O cientista Lifeguard de Manuk quer que você leve um mineral de Midgard para ele. O mineral pode ser encontrado em Arunafeltz, perto do Vulcão de Thor, com um radar.#
+2181#A Pesquisa Continua#SG_FEEL#QUE_NOIMAGE#
+O cientista Dr. Salvador de Manuk quer que você leve um mineral de Midgard para ele. O mineral pode ser encontrado em Arunafeltz, perto do Vulcão de Thor, com um radar.#
 5 Minerais Brutos#
 
-2182#Research Continues#SG_FEEL#QUE_NOIMAGE#
-O cientista Lifeguard agradece por sua ajuda e está ansioso para tê-la de novo em breve.#
+2182#A Pesquisa Continua#SG_FEEL#QUE_NOIMAGE#
+O cientista Dr. Salvador agradece por sua ajuda e está ansioso para tê-la de novo em breve.#
 #
 
 2183#Perfume#SG_FEEL#QUE_NOIMAGE#
@@ -1130,7 +1130,7 @@ Colete os itens que o Caçador de Demônios pedir. - 3 Dentes de Morcego, 1 Muco P
 #
 
 4008#Mudança de Classe: Caçador#SG_FEEL#QUE_NOIMAGE#
-Colete os itens que o Caçador de Demônios pedir. - 2 Espinhos de Porco-Espinho, 1 Cauda de Yoyo e 1 Avelã#
+Colete os itens que o Caçador de Demônios pedir. - 2 Espinhos de Porco-Espinho,  1 Avelã e 1 Cauda de Yoyo #
 #
 
 4009#Mudança de Classe: Caçador#SG_FEEL#QUE_NOIMAGE#
@@ -1291,7 +1291,7 @@ Volte até Cougar com o recado de Red Leopard Joe.#
 #
 
 6018#Loucura de Cougar#SG_FEEL#QUE_NOIMAGE#
-Corra e traga 5 Cyfars e 1 Fracon para Cougar.#
+Corra e traga 5 Minérios de Ferro e 1 Fracon para Cougar.#
 #
 
 
@@ -3860,8 +3860,8 @@ Gorurung não poderá aceitar sua pesca antes de 24 horas.#
 Não faça barulho no local da pescaria.#
 Cuidado!#
 
-12062#Iluminação cancelada#SG_FEEL#QUE_NOIMAGE#
-Iluminação não será permitida em 24 horas.#
+12062#Mineração cancelada#SG_FEEL#QUE_NOIMAGE#
+Mineração não será permitida em 24 horas.#
 É isso por hoje#
 
 12070#Tempo limite para a entrada#SG_FEEL#QUE_NOIMAGE#
@@ -4844,7 +4844,7 @@ Derrote 30 Munaks do calabouço de Payon.#
 Colete 40 Flores de Planta Carnívora do sul de Comodo.#
 #
 3263#Pedidos!#SG_FEEL#QUE_NOIMAGE#
-Colete 30 Chifres de Dokebi e Toras da caverna de Payon.#
+Colete 30 Chifres de Dokebi e 30 Troncos da caverna de Payon.#
 #
 
 
@@ -5315,43 +5315,43 @@ Derrote 10 Cocos#
 Derrote 10 Sapos de Thara na caverna de Comodo ou em outros locais.#
 Derrote 10 Sapos de Thara#
 
-8271#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
+8271#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
 Entregue o item para o biólogo ao nordeste de Payon.#
 Faça a entrega#
 
-8272#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
+8272#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
 Entregue o item para o biólogo a oeste de Prontera.#
 Faça a entrega#
 
-8273#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
+8273#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
 Entregue o item para o biólogo ao sul de Lutie.#
 Faça a entrega#
 
-8274#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
+8274#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
 Colete os itens do Esqueleto da Caverna de Payon.#
 Colete 10 Ossos#
 
-8275#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
+8275#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
 Colete '10 Patas de Animal' e '5 Peles de Animal' de Pé Grande ao norte de Geffen.#
 Colete 10 Patas de Urso e 5 Peles de Animal#
 
-8276#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
+8276#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
 Colete os itens do Pierre, Andre e Deniro do Formigueiro Infernal.#
-Colete 20 Scells e 20 Garletas#
+Colete 20 Peles de Verme e 20 Garletas#
 
-8277#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
+8277#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
 Colete os itens do Yoyo, Koko e Fumacento do mapa a leste de Ayothaya.#
 Colete 10 Caudas, 10 Avelãs e 10 Folhas de Fumacento#
 
-8278#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
+8278#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
 Colete os itens do Cookie e do Presente da Fábrica de Presentes.#
 Colete 10 Biscoitos de Gengibre e 1 Pedaço de Bolo#
 
-8279#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
-Colecione os itens do Martir na Mina de Carvão.#
+8279#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
+Colete os itens do Martir na Mina de Carvão.#
 Colete 5 Bigodes de Toupeira e 3 Garras de Toupeira#
 
-9024#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
+9024#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
 Ajude o menino em Prontera.#
 Colete 100 Jellopys#
 
@@ -5579,7 +5579,7 @@ Cace 20 Condores a sul de Morroc.#
 #
 
 11116#Caçada de Monstros#SG_FEEL#QUE_NOIMAGE#
-Cace 10 Rockers e colete 4 Pernas de Gafanhoto a sudoeste de Prontera.#
+Cace 10 Rockers e colete 10 Pernas de Gafanhoto a sudoeste de Prontera.#
 #
 
 11117#Caçada de Monstros#SG_FEEL#QUE_NOIMAGE#
@@ -5777,8 +5777,8 @@ Complete o desafio caçando 15 Filhotes de Orc#
 Cace 15 Filhotes de Orc#
 
 12076#Caçada de Monstros#SG_FEEL#QUE_NOIMAGE#
-Complete o desafio caçando 15 Guerreiros Orc#
-Cace 15 Guerreiros Orc#
+Complete o desafio caçando 20 Guerreiros Orc#
+Cace 20 Guerreiros Orc#
 
 12077#Caçada de Monstros#SG_FEEL#QUE_NOIMAGE#
 Complete o desafio caçando 15 Vadons#
@@ -6169,7 +6169,7 @@ Orelhas de gato? Tem certeza? Os humanos são parecidos com isso? Por que não vai
 #
 
 7191#Designação de Shay - BK#SG_FEEL#QUE_NOIMAGE#
-Para facilitar as informações coletadas, Shay infiltrou BK nos Gatos Mercadores. Eu disse para BK ^4d4dff'Drink especial de Shay será entregue.'^000000 mas BK não me ajudou...#
+Para facilitar as informações coletadas, Shay infiltrou BK nos Gatos Mercadores. Eu disse para BK ^4d4dff'A bebida especial de Shay será entregue.'^000000 mas BK não me ajudou...#
 Conhecendo BK#
 
 7192#Informações de BK#SG_FEEL#QUE_NOIMAGE#
@@ -6507,7 +6507,7 @@ Coletes 5 Buquês - Reporte ao Gerente de Transportes#
 O Ministro está procurando um produto que existe em Midgard, uma Rosa Eterna. Ele não tem certeza se é um ótimo presente... Então... Eu sei que isto é difícil, mas você poderia trazer uma dessas pra mim? Isso fica entre nós, ok? #
 Colete 1 Rosa Eterna - Reporte ao Gerente de Transportes#
 
-12140#Cortezia para Clientes#SG_FEEL#QUE_NOIMAGE#
+12140#Cortesia para Clientes#SG_FEEL#QUE_NOIMAGE#
 Uma solicitação do dono do 'El Borracho'. Ele disse que não pode utilizar folhas como pratos para seus clientes fiéis. Ele precisa de 15 pratos de porcelanas chinesas de Midgard.#
 Colete 15 Pratos de Porcelana - Reporte ao Gerente de Transportes#
 
@@ -6863,23 +6863,23 @@ Volte a falar com Nodor em Comodo#
 
 10102#Para o cliente - Esfinge#SG_FEEL#QUE_NOIMAGE#
 Pedido recebido do Grupo Éden Lv 71~85.#
-Cliente Meidi não está disponível devido a assuntos urgentes. Volte para Grupo Éden Lv 71~85.#
+Encontre Meidi em Morroc.#
 
 10103#Para o cliente - GlastHeim#SG_FEEL#QUE_NOIMAGE#
 Pedido recebido do Grupo Éden Lv 71~85.#
-Cliente Ancelia não está disponível devido a assuntos urgentes. Volte para Grupo Éden Lv 71~85.#
+Encontre Ancelia em Geffen.#
 
 10104#Para o cliente - Juno#SG_FEEL#QUE_NOIMAGE#
 Pedido recebido do Grupo Éden Lv 71~85.#
-Cliente Jeanbai não está disponível devido a assuntos urgentes. Volte para Grupo Éden Lv 71~85.#
+Encontre Jeanbai em Aldebaran.#
 
 10105#Para o cliente - Torre do Relógio#SG_FEEL#QUE_NOIMAGE#
 Pedido recebido do Grupo Éden Lv 71~85.#
-Cliente Lisingshetter não está disponível devido a assuntos urgentes. Volte para Grupo Éden Lv 71~85.#
+Encontre Lisingshetter na Torre do Relógio.#
 
 10106#Para o cliente - Localização#SG_FEEL#QUE_NOIMAGE#
 Pedido recebido do Grupo Éden Lv 71~85.#
-Cliente Funfi não está disponível devido a assuntos urgentes. Volte para Grupo Éden 71~85.#
+Encontre Funfie em Alberta.#
 
 10107#Esfinge - Requiem#SG_FEEL#QUE_NOIMAGE#
 Pedido recebido do Grupo Éden Lv 71~85. Você deve exterminar Requiems.#
@@ -6901,9 +6901,9 @@ Reporte para o ^0000FFConselheiro do Grupo Éden Lv 71~85^000000 depois de derrot
 Pedido recebido do Grupo Éden Lv 71~85. Você deve exterminar Druida Maligno.# 
 Reporte para o ^0000FFConselheiro do Grupo Éden Lv 71~85^000000 depois de derrotar 10 Druidas Maligno.#
 
-10112#GlastHeim - Pesadelos#SG_FEEL#QUE_NOIMAGE#
-Pedido recebido do Grupo Éden Lv 71~85. Você deve exterminar Pesadelos.# 
-Reporte para o ^0000FFConselheiro do Grupo Éden Lv 71~85^000000 depois de derrotar 10 Pesadelos.#
+10112#GlastHeim - Almas Penadas#SG_FEEL#QUE_NOIMAGE#
+Pedido recebido do Grupo Éden Lv 71~85. Você deve exterminar Almas Penadas.# 
+Reporte para o ^0000FFConselheiro do Grupo Éden Lv 71~85^000000 depois de derrotar 10 Almas Penadas.#
 
 10113#GlastHeim - Raydric Arqueiro#SG_FEEL#QUE_NOIMAGE#
 Pedido recebido do Grupo Éden Lv 71~85. Você deve exterminar Raydric Arqueiro.# 
@@ -7055,5 +7055,2504 @@ Fale com ^005DFFJaina^000000#
 Mostre para ^005DFFViorel^000000 o ^006400Embrião Estranho^000000. De acordo com as informações de ^005DFFJaina^000000, ^005DFFViorel^000000 irá transforma-lo em um ^0000FFNovo Homunculus^000000.#
 Trabalhe com ^005DFFViorel^000000#
 
-//file end
+9166#Reset de Atributos : Condição atual#SG_FEEL#QUE_NOIMAGE#
+Você pode usar o serviço de reset de atributos se possuir uma Pedra das Valquírias. .#
+Volte daqui a ^FF000020 horas^000000.#
 
+//=== ÇÒ·ÎÀ© µ¥ÀÌ===
+//------------------ O Mercador do Inferno
+14166#Maçã!!! #SG_FEEL#QUE_NOIMAGE#
+Pegue uma maçã fresca do mundo dos vivos e entregue-a ao Mercador do Inferno. Ele diz que gostaria de ajudar você, então escute-o.#
+Ao Mercador do Inferno#
+
+14167#Chapéu???#SG_FEEL#QUE_NOIMAGE#
+O Mercador do Inferno disse que fará um Chapéu de Abóbora Infernal para você, se lhe trouxer os materiais. Volte a falar com ele depois de consegui-los. Você vai precisar de Agulha e Linha, Abóbora Firme, Amuleto do Fantasma Livre e Memória de Jack.#
+Encontre os materiais do Chapéu#
+
+14168#Perguntas e Respostas!#SG_FEEL#QUE_NOIMAGE#
+Você acertou Perguntas e Respostas, então receberá a Abóbora Resistente!#
+Passou no teste!#
+
+14169#Depois de comer um lanchinho#SG_FEEL#QUE_NOIMAGE#
+As crianças comeram o lanche com paixão! Eles nem mesmo falaram enquanto comiam. Você deve lhes dizer para tomar cuidado.#
+Uma palavra para as crianças.#
+
+14170#Outra prova!#SG_FEEL#QUE_NOIMAGE#
+Você errou as respostas. Tente novamente!!!#
+Tentar Novamente#
+
+14171#Pedido do Sr. Han#SG_FEEL#QUE_NOIMAGE#
+O Sr. Han lhe pediu o material para criar a Boneca Amaldiçoada. 3 Cabelos Pretos, 3 Tranças, 10 Troncos Estéreis, 10 Troncos Sólidos.#
+Pedido do Sr. Han#
+
+14172#Pedido do Sr. Han#SG_FEEL#QUE_NOIMAGE#
+O Sr. Han pediu que você atendesse ao pedido dele e não do Sr. Han. 3 Saias Virginais, 5 Tranças Curtas, 15 Troncos de Alta Qualidade, 1 Tronco.#
+Pedido do Sr. Han#
+
+14173#Material do Amuleto do Fantasma Livre#SG_FEEL#QUE_NOIMAGE#
+Toto, que tem medo de fantasmas, pediu materiais para criar o Amuleto do Fantasma Livre. 1 Gema Vermelha, 30 Bicos de Ave, 30 Caudas de Ave e 50 Plumas de Ave.#
+Encontre os materiais do Amuleto do Fantasma Livre#
+
+14174#Palavra Maldita#SG_FEEL#QUE_NOIMAGE#
+Você se recusou a prestar um favor a Toto. Então, ela lhe amaldiçoou com palavras. Seria mesmo uma sábia decisão ignorar essa pobre garotinha!?#
+Pedido de Toto#
+
+14175#Vamos para Hugel#SG_FEEL#QUE_NOIMAGE#
+Jack, que não consegue se lembrar de nada, lhe pediu para investigar o passado dele em Hugel. Volte a Hugel para encontrar pistas.#
+Para Hugel!!!#
+
+14176#Rejeição#SG_FEEL#QUE_NOIMAGE#
+Você rejeitou o pedido de Jack. Mas não pode esquecer seus olhos desapontados.#
+Pedido de Jack#
+
+14177#Para a Casa de Centrea#SG_FEEL#QUE_NOIMAGE#
+Se você for à Casa de Centrea, descobrirá algo sobre Jack e ela. Vá até a casa dela.#
+Para a Casa de Centrea#
+
+14178#Procurando a alma de Jack.#SG_FEEL#QUE_NOIMAGE#
+Centrea disse que escondeu a Alma de Jack na Máquina de Vendas de Bonecas. Ela também disse que colocou uma senha, mas a esqueceu. Você terá que encontrar a senha e a alma de Jack.#
+Encontre a Alma de Jack.#
+
+14179#Para Prontera#SG_FEEL#QUE_NOIMAGE#
+Aconteceu algo triste entre Jack e Centrea. Fale com Jack e conte a ele a história toda.#
+Falar com Jack#
+
+14180#Conta Perdida#SG_FEEL#QUE_NOIMAGE#
+No momento em que você estava colocando a senha na máquina, a conta começou a desaparecer. Fale com Centrea e pergunte o que aconteceu.#
+Falar com Centrea#
+
+//////////////////////////////EP 14.1
+//--- Warlock Extrem Magical Book Quest --- ?? ??? ??? ???
+12218#Como criar o elixir de lava#SG_FEEL#QUE_NOIMAGE#
+Refine 40 corações incandescentes com a ajuda de um grande poder no lugar mais quente do 2º andar do Calabouço do Vulcão de Thor. Este elixir é para aqueles que se dedicam à magia. #
+Próximo a thor_v02 163 104#
+
+12219#Como criar o elixir das chamas#SG_FEEL#QUE_NOIMAGE#
+O elixir das chamas pode ser refinado em um terreno estável do Calabouço do Vulcão de Thor. Preciso de 10 lenhas em brasa. Para criar a magia perfeita, os outros três elixires devem existir ao mesmo tempo.#
+Perto de thor_v01 185 91#
+
+12220#Como criar o elixir gelado#SG_FEEL#QUE_NOIMAGE#
+Eu consegui refinar o elixir gelado nas profundezas do Calabouço de Gelo. Portanto, escrevo: "São necessários 10 corações de gelo. Para criar a magia perfeita, os outros três elixires devem existir ao mesmo tempo". #
+Perto de ice_dun03 137 148#
+
+12221#Como criar o elixir de fósseis#SG_FEEL#QUE_NOIMAGE#
+Foi possível refinar o elixir de fósseis entre as rochas antigas no 2º andar do Calabouço da Mina. Precisei usar 10 Jubileus. Para criar a magia perfeita, os outros três elixires devem existir ao mesmo tempo.#
+Perto de ein_dun02 181 124#
+
+12222#Como criar o elixir da tempestade#SG_FEEL#QUE_NOIMAGE#
+Eu visitei o Tabuleiro de Xadrez dos ermitões para refinar o elixir da tempestade. Consigo sentir facilmente a energia dos ventos, então a tarefa foi fácil. Foram usadas 10 presas de dragão. Para criar a magia perfeita, os outros três elixires devem existir ao mesmo tempo.#
+Perto de gon_dun02 252 198#
+
+//-- 2010 ???? 14.1 ep14_1_rofe.sc
+1109#Lope e Euridi — Sobreviventes da névoa da floresta.#SG_FEEL#QUE_NOIMAGE#
+Encontre a Estalagem da Vila de Mora e pergunte sobre o paradeiro de Lope.#
+#
+
+1110#Lope e Euridi — Vítimas da névoa.#SG_FEEL#QUE_NOIMAGE#
+Você encontra alguém chamado Pitt. Ele diz que Lope deve estar vivo, mas não sabe onde ele está.#
+Volte a falar com Euridi e conte para ela o que você descobriu.#
+
+1111#Lope e Euridi — A névoa da floresta.#SG_FEEL#QUE_NOIMAGE#
+Procure as ^0000FFPistas sobre Lope^000000 na floresta e leve-as para Pitt. Trinta devem ser suficientes.#
+#
+
+1112#Lope e Euridi — Labirinto.#SG_FEEL#QUE_NOIMAGE#
+Pitt não está ajudando muito. É melhor você levar as pistas sobre Lope para Euridi. Talvez sejam úteis para ela.#
+#
+
+1113#Lope e Euridi — Promessa quebrada.#SG_FEEL#QUE_NOIMAGE#
+Quando se juntam as pistas, percebe-se que Pitt deve ter tido algo a ver com o que aconteceu com Lope...#
+#
+
+1114#Lope e Euridi — O custo do sacrifício.#SG_FEEL#QUE_NOIMAGE#
+Pitt lhe entrega o Anel de Lope e confessa o que fez. Você precisa contar a Euridi o que aconteceu.#
+#
+
+1115#Lope e Euridi — Canção do Abismo.#SG_FEEL#QUE_NOIMAGE#
+Enquanto Euridi canta para Lope, a amiga dela diz que ouviu falar de um homem suspeito perto da entrada da floresta.#
+#
+
+1116#Lope e Euridi — Canção dos Mortos.#SG_FEEL#QUE_NOIMAGE#
+Você encontra Lope, mas ele lhe pede para dizer a Euridi que se transformou em pó. Ele não pode mais estar com ela da maneira como desejavam.#
+#
+
+1117#Lope e Euridi — Promessa eterna.#SG_FEEL#QUE_NOIMAGE#
+Naturalmente, quando você entrega o Anel de Lope para Euridi, ela não aceita bem a notícia...#
+Fale com a Amiga de Euridi.#
+
+1118#Cavaleiros Vizinhos.#SG_FEEL#QUE_NOIMAGE#
+Recolha 30 Pistas sobre Lope e volte a falar com o Mestre da Ordem dos Cavaleiros.#
+#
+
+1119#Cavaleiros Vizinhos#SG_FEEL#QUE_NOIMAGE#
+Você concluiu uma tarefa para o Comandante dos Cavaleiros Vizinhos. Aguarde o cronômetro terminar antes de tentar ajudá-lo de novo.#
+#
+
+// ???? 14.1
+// ???? ??? ?? ???
+5016#Traga-me as Ferramentas de Pesquisa#SG_FEEL#QUE_NOIMAGE#
+Os Pesquisadores Refugos estão dizendo que foram atacados por uma criatura não identificada e que a pesquisa deles foi roubada.#
+Pegue a pesquisa da criatura não identificada e devolva-a aos pesquisadores.#
+
+5017#Vingança do Pesquisador#SG_FEEL#QUE_NOIMAGE#
+Os assistentes estão dizendo que você precisa ajudá-los a relaxar, pois só assim conseguem fazer suas pesquisas.  Vamos perturbar a criatura não identificada 3 vezes.#
+Perturbe 3 vezes a criatura não identificada na Banheira.#
+
+5018#Vingança do Pesquisador#SG_FEEL#QUE_NOIMAGE#
+Você terminou de perturbar a criatura não identificada na Banheira.#
+Volte a falar com os pesquisadores Refugos.#
+
+5019#Pesquisa das Amostras do Banho#SG_FEEL#QUE_NOIMAGE#
+Uma pesquisa está prestes a começar. Antes disso, eles precisam dos materiais para os testes!  Vamos até a Banheira para obter 10 desses materiais!#
+Você pode pegar os materiais para os testes diretamente da Banheira.#
+
+5020#Analisando as Amostras#SG_FEEL#QUE_NOIMAGE#
+Agora, os pesquisadores estão fazendo os testes básicos. Disseram que isso vai levar cerca de 24 horas. Já que não há nada para ser feito no momento, que tal descansar um pouco?#
+Depois de 24 horas, nós voltaremos a falar com os pesquisadores.#
+
+5021#Amostras Coletadas#SG_FEEL#QUE_NOIMAGE#
+O resultado da pesquisa mostrou que a criatura não identificada possui um DNA interessante. Para compará-lo a outros tipos de DNA, vá até a Banheira para coletar alguns dentes.#
+Os dentes podem ser obtidos diretamente da Banheira.#
+
+5022#Amostras Coletadas#SG_FEEL#QUE_NOIMAGE#
+O resultado da pesquisa mostrou que a criatura não identificada possui um DNA interessante. Para compará-lo a outros tipos de DNA, vá até a Banheira para coletar algumas escamas.#
+As escamas podem ser obtidas diretamente da Banheira.#
+
+5023#Espécime do teste#SG_FEEL#QUE_NOIMAGE#
+No momento, os pesquisadores estão analisando as amostras que você trouxe para descobrir mais informações sobre o DNA interessante.#
+Volte a falar com eles daqui a 6 horas.#
+
+5024#Pesquisa da bacia leste#SG_FEEL#QUE_NOIMAGE#
+Os pesquisadores disseram que ficaram ainda mais curiosos após encontrar o DNA interessante.  Para satisfazer essa curiosidade, eles querem que você vá até a Poça Leste e obtenha mais amostras.#
+Vá até a Poça Leste, colete as amostras e leve-as para os pesquisadores.#
+
+5025#Pesquisa da bacia oeste#SG_FEEL#QUE_NOIMAGE#
+Os pesquisadores disseram que ficaram ainda mais curiosos após encontrar o DNA interessante.  Para satisfazer essa curiosidade, eles querem que você vá até a Poça Oeste e obtenha mais amostras.#
+Vá até a Poça Oeste, colete as amostras e leve-as para os pesquisadores.#
+
+5026#Pesquisa da bacia sul#SG_FEEL#QUE_NOIMAGE#
+Os pesquisadores disseram que ficaram ainda mais curiosos após encontrar o DNA interessante.  Para satisfazer essa curiosidade, eles querem que você vá até a Poça Sul e obtenha mais amostras.#
+Vá até a Poça Sul, colete as amostras e leve-as para os pesquisadores.#
+
+5027#Pesquisa da bacia norte#SG_FEEL#QUE_NOIMAGE#
+Os pesquisadores disseram que ficaram ainda mais curiosos após encontrar o DNA interessante.  Para satisfazer essa curiosidade, eles querem que você vá até a Poça Norte e obtenha mais amostras.#
+Vá até a Poça Norte, colete as amostras e leve-as para os pesquisadores.#
+
+5028#Espécime do teste#SG_FEEL#QUE_NOIMAGE#
+A pesquisa está na etapa final. Os pesquisadores estão analisando as amostras das 4 poças.#
+Volte a falar com eles daqui a 12 horas.#
+
+5029#Criatura não identificada#SG_FEEL#QUE_NOIMAGE#
+Você travou uma batalha com a criatura não identificada. Agora, precisa curar sua mente e seu corpo.#
+Descanse por 1 hora.#
+
+5030#A família da criatura#SG_FEEL#QUE_NOIMAGE#
+Faz tempo que Peixinho não vê a família dele e gostaria de saber como estão. Vá até a poça nos arredores da vila e encontre a família de Peixinho.#
+Encontre a família de Peixinho.#
+
+5031#A família da criatura#SG_FEEL#QUE_NOIMAGE#
+Faz tempo que Peixinho não vê a família dele e gostaria de saber como estão. Vá até a poça nos arredores da vila e encontre a família de Peixinho.#
+Encontre a família de Peixinho.#
+
+5032#A família da criatura#SG_FEEL#QUE_NOIMAGE#
+Faz tempo que Peixinho não vê a família dele e gostaria de saber como estão. Vá até a poça nos arredores da vila e encontre a família de Peixinho.#
+Encontre a família de Peixinho.#
+
+5033#A família da criatura#SG_FEEL#QUE_NOIMAGE#
+Faz tempo que Peixinho não vê a família dele e gostaria de saber como estão. Vá até a poça nos arredores da vila e encontre a família de Peixinho.#
+Encontre a família de Peixinho.#
+
+5034#Notícias da família#SG_FEEL#QUE_NOIMAGE#
+Você encontra a família de Peixinho. Vamos contar para ele.#
+Vá até a Banheira e conte a notícia para Peixinho.#
+
+//-- 2010 ???? 14.1
+//---- Cheshire? ??? ?
+7206#Os novos dias de Cheshire#SG_FEEL#QUE_NOIMAGE#
+Você encontrará um integrante da Cat Comercial no centro do ^4d4dffTúnel Kamidal^000000. ^4d4dff No lado oeste da entrada do Salão Skaraba há uma caixa de itens marcada.^000000. Transporte-a para outro lugar. O destino estará indicado nela.#
+#
+
+7207#Caixa de Cheshire#SG_FEEL#QUE_NOIMAGE#
+Você encontrou a caixa mencionada por Cheshire no Túnel Kamidal. Na parte inferior, está escrito o seguinte em letras pequenas: ^4d4dff Em frente à Fenda de Bifrost^000000. Informe isso a Cheshire. Ele pode estar em qualquer lugar de Bifrost.#
+#
+
+7208#E amanhã também, por favor.#SG_FEEL#QUE_NOIMAGE#
+Você concordou em ajudar Cheshire, no Túnel Kamidal, a transportar a caixa uma vez por dia. Quando chegar a hora, vá buscá-la.#
+#
+
+7209#Esqueça a caixa.#SG_FEEL#QUE_NOIMAGE#
+A caixa está perdida. No lugar dela, Cheshire quer que você obtenha 20 unidades de Bradium Refinado.#
+Bradium Refinado: 20 unidades.#
+
+7210#Entrega diária#SG_FEEL#QUE_NOIMAGE#
+Cheshire está esperando a caixa de Bradium. Você deve levar os itens de hoje para ele, em Bifrost.#
+#
+
+//------???? ???
+7211#Explore a Floresta Nebulosa#SG_FEEL#QUE_NOIMAGE#
+Explore a Floresta Nebulosa. Ela se lembrará de você e o rejeitará se tentar entrar de novo.#
+#
+
+7212#O encontro com Loki#SG_FEEL#QUE_NOIMAGE#
+Por acaso, você conhece alguém chamado Loki na floresta. Ele está procurando uma pessoa. Jarani (um nome?), com cabelo roxo. O que isso quer dizer? Se você encontrá-la, deve informar a Loki?#
+#
+
+7213#Protetor Errante#SG_FEEL#QUE_NOIMAGE#
+Loki estava procurando o Guardião Niddhog que estava andando sem rumo por entre a névoa.  Você concordou em se encontrar com ele na Vila de Mora assim que sair da floresta.#
+#
+
+//-- ???? 14.1
+//Bifrost ep14_1_bs.sc
+11182#O relatório de Theore#SG_FEEL#QUE_NOIMAGE#
+Theore parece estar enlouquecido. Espere ele se acalmar e repita o que tem a dizer.#
+#
+
+11183#O favor de Theore#SG_FEEL#QUE_NOIMAGE#
+Theore pediu para você encontrar os Laphines que estão vindo para os Campos de Splendide.#
+Vasculhe a área sudoeste do Campo de Splendide 2.#
+
+11184#Laphine em fuga#SG_FEEL#QUE_NOIMAGE#
+Você encontrou um Laphine desarmado nos arbustos, mas ele fugiu.#
+Continue vasculhando o Campo de Splendide 2.#
+
+11185#Uma bolsa pequena#SG_FEEL#QUE_NOIMAGE#
+Você encontrou uma bolsa pequena nos arbustos. É melhor levar de volta para Theore.#
+#
+
+11186#Uma bolsa pequena#SG_FEEL#QUE_NOIMAGE#
+Leve a bolsa de volta para Splendide e tente encontrar o dono.#
+#
+
+11187#Devolvendo a bolsa das fadas#SG_FEEL#QUE_NOIMAGE#
+Você encontra uma Fada Cansada, mas a bolsa não pertence a ela. Junte as pistas para tentar encontrar o dono e informe suas descobertas para a Fada Cansada.#
+#
+
+11188#O dono da bolsa das fadas#SG_FEEL#QUE_NOIMAGE#
+Se prometer não contar para ninguém, você pode falar com Kusmi novamente.#
+Fale com Kusmi novamente.#
+
+11189#Rota de suprimentos de Bifrost#SG_FEEL#QUE_NOIMAGE#
+Kusmi ainda precisa de ajuda porque a rota por onde vêm os suprimentos do continente foi obstruída.#
+Converse com Kusmi novamente.#
+
+11190#Rota de suprimentos de Bifrost#SG_FEEL#QUE_NOIMAGE#
+Encontre um Soldado Laphine, em Splendide, para informá-lo sobre a rota de suprimentos.#
+#
+
+11191#Fendas em Bifrost#SG_FEEL#QUE_NOIMAGE#
+Você pode chegar a Alfheim atravessando o Labirinto da Floresta Nebulosa. No entanto, ninguém jamais voltou de lá.#
+Volte a falar com Kusmi.#
+
+11192#Vila de Mora...#SG_FEEL#QUE_NOIMAGE#
+Se você for até o armazém na Vila de Mora, o gerente falará mais sobre o assunto. No caminho de volta, você pode conferir se meu amigo Rondo está na vila?#
+Encontre Rondo, o amigo de Kusmi, na Vila de Mora.#
+
+11193#O amigo de Kusmi#SG_FEEL#QUE_NOIMAGE#
+Diga a Kusmi que podemos nos encontrar quando ela quiser. Ela não precisa se preocupar.#
+Volte a falar com Kusmi.#
+
+11194#Bolsa pequena#SG_FEEL#QUE_NOIMAGE#
+Se quiser mesmo ouvir a resposta, fale comigo. Preciso de tempo para pensar.#
+Fale com Theodore novamente.#
+
+11195#Bifrost#SG_FEEL#QUE_NOIMAGE#
+E, como falei antes, o que lhe contei é um segredo e você não deve revelá-lo a ninguém. Precisamos de ajuda, mas não queremos que os outros saibam.#
+Fale com Theodore novamente.#
+
+11196#Bifrost#SG_FEEL#QUE_NOIMAGE#
+A rota de suprimentos passa por Bifrost, e você pode chegar até ela por trás da Base de Splendide. Se for se aventurar nesse local, pergunte a um guarda como são as coisas por lá.#
+Encontre um Soldado Laphine, em Splendide, para informá-lo sobre a rota de suprimentos.#
+
+11197#Fendas em Bifrost#SG_FEEL#QUE_NOIMAGE#
+Você pode chegar a Alfheim atravessando o Labirinto da Floresta Nebulosa. No entanto, ninguém jamais voltou de lá.#
+Volte a falar com Theodore.#
+
+11198#Vila de Mora...#SG_FEEL#QUE_NOIMAGE#
+Se falar com o Gerente do Armazém da Vila de Mora, você vai conseguir mais informações. E, se não for pedir demais, pode procurar minha amiga, Lilitia, também...?#
+Encontre Lilitia, a amiga de Theodore, na Vila de Mora.#
+
+11199#A amiga de Theodore#SG_FEEL#QUE_NOIMAGE#
+O quê? Foi Theodore quem mandou você? Diga a ele que estou muito brava!!#
+Volte a falar com Theodore.#
+
+11200#Bolsa pequena#SG_FEEL#QUE_NOIMAGE#
+Não é fácil responder isso... Mas agradeço por você ter encontrado minha bolsa... Humm... Por favor, me dê um tempo para pensar.#
+Fale com Pauchon novamente.#
+
+11201#Bifrost#SG_FEEL#QUE_NOIMAGE#
+Eu comeria a casca daquela árvore se pudesse. Se ao menos alguém nos ajudasse... *choradeira*#
+Fale com Pauchon novamente.#
+
+11202#Bifrost#SG_FEEL#QUE_NOIMAGE#
+Uma grande estrada se estende da parte de trás de Splendide. Oh! O guarda de lá deve saber alguma coisa. Se estiver indo para lá, descubra o que está acontecendo.#
+Encontre um Soldado Laphine, em Splendide, para informá-lo sobre a rota de suprimentos.#
+
+11203#Fendas em Bifrost#SG_FEEL#QUE_NOIMAGE#
+Você pode chegar a Alfheim atravessando o Labirinto da Floresta Nebulosa. No entanto, ninguém jamais voltou de lá.#
+Volte a falar com Pauchon.#
+
+11204#Vila de Mora...#SG_FEEL#QUE_NOIMAGE#
+Deveríamos ter nos encontrado na Vila de Mora, mas ele é tão distraído que já deve ter partido.#
+Encontre Humming, o amigo de Pauchon, na Vila de Mora.#
+
+11205#O amigo de Pauchon#SG_FEEL#QUE_NOIMAGE#
+Se chegar a Splendide antes de mim, diga a Pauchon que vou atravessar o Labirinto da Floresta Nebulosa.#
+Volte a falar com Pauchon.#
+
+11206#Entrega rápida#SG_FEEL#QUE_NOIMAGE#
+Se pretende voltar a Splendide, faça uma visita a Jones, na Estalagem. Ele tem algo que precisa ser entregue imediatamente para o exército de Splendide.#
+Encontre Jones na Vila de Mora.#
+
+11207#Um fardo muito pesado#SG_FEEL#QUE_NOIMAGE#
+Você está carregando peso demais. Por favor, alivie a sua carga e volte aqui.#
+Alivie o peso do seu inventário e volte a falar com Jones.#
+
+11208#Daphrer#SG_FEEL#QUE_NOIMAGE#
+Por favor, tome cuidado com isso. É para Daphrer, em Splendide.#
+Leve o Kit de Suprimentos para Daphrer.#
+
+//---- 2010 ???? 14.1 ep14_1_dealer.sc
+12225#Insetos Carregadores de Frutas#SG_FEEL#QUE_NOIMAGE#
+Quero que você os elimine antes que tentem vender alguma coisa para os aventureiros perdidos na floresta.#
+Cace 3 Aranhas Poms.# 
+
+12226#Caçadores Floridos#SG_FEEL#QUE_NOIMAGE#
+Nenhuma fatalidade foi informada ainda, mas é melhor tomarmos precauções. Por favor, lide com isso da maneira adequada.#
+Cace 4 Louva-a-deus Mantis#
+
+12227#Pequenos e Ferozes#SG_FEEL#QUE_NOIMAGE#
+Eles não pareciam tão ferozes, mas o aventureiro me pediu para dar um jeito neles, então vou ter que fazer isso.#
+Cace 5 Chapins.#
+
+12228#Um Rancor Desconhecido#SG_FEEL#QUE_NOIMAGE#
+Não sei qual é o problema dele com as fadas, mas um pedido é um pedido.#
+Cace 6 Pequenos Fatuns.#
+
+12229#Bola de Pelo#SG_FEEL#QUE_NOIMAGE#
+Elas não parecem perigosas, mas dizem que roubam livros e doces dos aventureiros. Por favor, lide com isso da maneira adequada.#
+Cace 7 Mímicos.#
+
+12230#Cronômetro de solicitações#SG_FEEL#QUE_NOIMAGE#
+Elephantine não tem mais tarefas disponíveis hoje.#
+Aguarde o cronômetro terminar.#
+
+12231#Material para Conservantes#SG_FEEL#QUE_NOIMAGE#
+*sorriso* Nada mais, nada menos que... Antenas de Inseto! O Vendedor de Mercadorias Diversas me pediu para obter quatro delas. Eu, pessoalmente, nunca me alimentaria de uma coisa dessas...#
+Consiga 4 Antenas de Insetos.#
+
+12232#Um Símbolo de Resistência#SG_FEEL#QUE_NOIMAGE#
+Os Corações Imortais parecem ser bem populares ultimamente. O Vendedor de Mercadorias Diversas me pediu para obter cinco deles.#
+Consiga 5 Corações Imortais.#
+
+12233#Material para Kits de Primeiros Socorros#SG_FEEL#QUE_NOIMAGE#
+Eles precisam de toneladas de Bandagens Estragadas para fazer bandagens de primeiros socorros. Acho que estão sem materiais novos. O cliente é o Vendedor de Mercadorias Diversas que está ali. Três punhados serão suficientes.#
+Consiga 1 Bandagem Estragada.#
+
+12234#Símbolos da Coragem#SG_FEEL#QUE_NOIMAGE#
+O Vendedor de Mercadorias Diversas me pediu para obter três Insígnias Orcs que serão usadas para fazer símbolos da coragem.#
+Consiga 3 Insígnias Orcs.#
+
+12235#Bom para o Vigor#SG_FEEL#QUE_NOIMAGE#
+O Vendedor de Mercadorias Diversas me pediu para obter três Ossos que serão usados para fazer o tônico.#
+Consiga 3 Ossos.#
+
+12236#A Última Moda em Talismãs#SG_FEEL#QUE_NOIMAGE#
+Os Espólios servem como inspiração para os criadores desses estojos. A Vendedora de Artigos Úteis, que está à minha frente, me pediu para obter dois deles.#
+Consiga 2 Espólios.#
+
+12237#Proteja Seus Itens Valiosos#SG_FEEL#QUE_NOIMAGE#
+Parece que a Vendedora de Artigos Úteis, que está à minha frente, faz estojos protetores com Cascas. Me pediram para obter três delas.#
+Consiga 3 Cascas.#
+
+12238#Material para Protetores de Canela#SG_FEEL#QUE_NOIMAGE#
+A Vendedora de Artigos Úteis, que está à minha frente, me pediu para obter três Cascas Escamadas, que serão usadas para fazer protetores de canela.#
+Consiga 3 Cascas Escamadas.#
+
+12239#Veneno por Veneno#SG_FEEL#QUE_NOIMAGE#
+A Vendedora de Artigos Úteis, que está à minha frente, me pediu para obter dois Caninos Venenosos, que serão usados na pesquisa da substância.#
+Consiga 2 Caninos Venenosos.#
+
+12240#Não Escorregue#SG_FEEL#QUE_NOIMAGE#
+A Vendedora de Artigos Úteis, que está à minha frente, me encarregou de obter cinco gotas de Muco Pegajoso.#
+Consiga 5 Mucos Pegajosos.#
+
+12241#Cronômetro de solicitações#SG_FEEL#QUE_NOIMAGE#
+Bow-wow não tem mais tarefas hoje.#
+Aguarde o cronômetro terminar.#
+
+12242#Cronômetro de solicitações#SG_FEEL#QUE_NOIMAGE#
+Woof-grrr não tem mais tarefas hoje.#
+Aguarde o cronômetro terminar.#
+
+12243#Informações sobre Tazar, uma pessoa desaparecida#SG_FEEL#QUE_NOIMAGE#
+32 anos de idade. Veio de Midgard. Entrou no Labirinto da Floresta Nebulosa para colher plantas nativas. Desaparecido há 3 meses.  Sobrevivência improvável.#
+Vasculhe o Labirinto da Floresta Nebulosa nos arredores de 13, 10.#
+
+12244#Informações sobre Niger, uma pessoa desaparecida#SG_FEEL#QUE_NOIMAGE#
+19 anos de idade. Aventureiro que veio de um lugar distante e desconhecido por navio. Decidiu explorar o Labirinto vestindo meias finas, ignorando os avisos dos habitantes de Mora. Desaparecido há 2 meses.#
+Vasculhe o Labirinto da Floresta Nebulosa nos arredores de 10, 24.#
+
+12245#Informações sobre Messil, uma pessoa desaparecida#SG_FEEL#QUE_NOIMAGE#
+Idade desconhecida. Sofre de uma doença mental não muito intensa.  Entrou sozinho no Labirinto da Floresta Nebulosa com a intenção de purificá-lo.#
+Vasculhe o Labirinto da Floresta Nebulosa nos arredores de 14, 24.#
+
+12246#Informações sobre Noirit, uma pessoa desaparecida#SG_FEEL#QUE_NOIMAGE#
+51 anos de idade. Costumava ser um ladrão que roubava espadas famosas de todas as partes do mundo. Desapareceu no Labirinto após ser perseguido por gerenciar um cassino ilegal que causou muitas fatalidades. #
+Vasculhe o Labirinto da Floresta Nebulosa nos arredores de 19, 27.#
+
+12247#Informações sobre Pajama Sin, uma pessoa desaparecida#SG_FEEL#QUE_NOIMAGE#
+22 anos de idade. Piloto cadete de um aeroplano. Sumiu enquanto estava de licença na cidade de Mora. Há rumores de que fugiu após se alistar ao exército. Desapareceu há 4 meses. Chance mínima de sobrevivência.#
+Vasculhe o Labirinto da Floresta Nebulosa nos arredores de 30, 32.#
+
+12248#Informações sobre Mendel, uma pessoa desaparecida#SG_FEEL#QUE_NOIMAGE#
+Idade desconhecida. Uma mulher de cabelos longos vestida de preto. Estava participando de uma expedição à floresta do Labirinto em busca de vida eterna. Desapareceu há 3 meses. Chance mínima de sobrevivência.#
+Vasculhe o Labirinto da Floresta Nebulosa nos arredores de 33, 28.#
+
+12249#Informações sobre Milebit, uma pessoa desaparecida#SG_FEEL#QUE_NOIMAGE#
+50 anos de idade, aproximadamente. Atual prefeito da Vila de Mora. Fugiu para a floresta do Labirinto após ser pego desviando o dinheiro das obras de moradia.  Sobrevivência incerta.#
+Vasculhe o Labirinto da Floresta Nebulosa nos arredores de 33, 17.#
+
+12250#Informações sobre Kunmoon, uma pessoa desaparecida#SG_FEEL#QUE_NOIMAGE#
+29 anos de idade. Um jovem com um passado desconhecido. Fugiu para a floresta do Labirinto após abrir vários tipos de comércio e roubar 1.200 moedas dos residentes de Mora. Sobrevivência incerta.#
+Vasculhe o Labirinto da Floresta Nebulosa nos arredores de 28, 8.#
+
+12251#Informações sobre Chaihokin, uma pessoa desaparecida#SG_FEEL#QUE_NOIMAGE#
+34 anos de idade. Flertou com várias mulheres em Mora. Enquanto fugia dos habitantes de Mora, entrou na floresta do Labirinto. Sobrevivência incerta.#
+Vasculhe o Labirinto da Floresta Nebulosa nos arredores de 17, 5.#
+
+12252#Informações sobre Tual, uma pessoa desaparecida#SG_FEEL#QUE_NOIMAGE#
+Idade desconhecida. Desapareceu com moedas que eram controladas em conjunto pelos habitantes. Chance mínima de sobrevivência.#
+Vasculhe o Labirinto da Floresta Nebulosa nos arredores de 11, 4.#
+
+12253#Cronômetro de solicitações#SG_FEEL#QUE_NOIMAGE#
+O Guia Espiritual não tem mais tarefas hoje.#
+Aguarde o cronômetro terminar.#
+
+// =========== Eden Group / Paradise Team Quest 86 ~ 90 =============== 
+4167#Caça às Lavadeiras#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Lavadeiras na Ilha das Tartarugas e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4168#Caça aos Coelhos#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Coelhos na Ilha das Tartarugas e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4169#Caça às Pestes#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Pestes na Ilha das Tartarugas e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4170#Caça às Bathorys#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Bathorys na Torre do Relógio e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4171#Caça aos Alarmes#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Alarmes na Torre do Relógio e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4172#Caça às Baba Yagas#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Baba Yagas em Moscovia e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4173#Caça aos Yao Juns#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Yao Juns em Louyang e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4174#Caça aos Soldados Atiradores#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Soldados Atiradores, em Amatsu, e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4175#Caça aos Zippers#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Zippers em Kunlun e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4176#Caça aos Petites Subterrâneos#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Petites nos arredores de Geffen e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4177#Caça às Rafflesias#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Rafflesias nos arredores de Lighthalzen e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4178#Caça às Nuves Venenosas#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Nuvens Venenosas nos arredores de Einbroch e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4179#Caça aos Minérios#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Minérios nos arredores de Einbroch e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4180#Caça aos Novus Amarelos#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Novus Amarelos nos arredores de Einbroch e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+// Eden Group / Paradise Team Quest 91 ~ 99
+4181#Caça aos Soldados#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Soldados na Ilha das Tartarugas e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4182#Caça aos Congeladores#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Congeladores na Ilha das Tartarugas e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4183#Caça aos Aquecedores#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Aquecedores na Ilha das Tartarugas e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4184#Caça aos Injustiçados#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Injustiçados em Glast Heim e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4185#Caça aos Rybios#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Rybios em Glast Heim e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4186#Caça aos Sacerdotes Malditos#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Sacerdotes Malditos em Glast Heim e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4187#Caça aos Stapos#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Stapos em Veins e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4188#Caça aos Roweens#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Roweens em Rachel e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4189#Caça aos Siromas#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Siromas no Calabouço de Gelo e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4190#Caça aos Shinobis#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Shinobis em Amatsu e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4191#Caça às Ninfas Perversas#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Ninfas Perversas em Kunlun e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4192#Caça aos Deviruchis#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Deviruchis no Calabouço de Geffen e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4193#Caça aos Minerais#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Minerais na Mina de Einbroch e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4194#Caça aos Kahos#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Kahos na Caverna de Magma e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4195#Caça às Nereidas#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Nereidas no Calabouço de Comodo e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+4196#Caça aos Mascarados#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Mascarados em Nifflheim e retorne ao segundo andar da Matriz do Grupo Éden.#
+#
+
+// Eden Group / Paradise Team Quest 86 ~ 90 Time Limit Notification 
+4198#86-90 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça às Caudas de Dragão.#
+#
+
+4199#86-90 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Coelhos.#
+#
+
+4200#86-90 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça às Pestes.#
+#
+
+4201#86-90 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Bathorys.#
+#
+
+4202#86-90 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Alarmes.#
+#
+
+4203#86-90 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça às Baba Yagas.#
+#
+
+4204#86-90 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Yao Juns.#
+#
+
+4205#86-90 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Soldados Atiradores.#
+#
+
+4206#86-90 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Zippers.#
+#
+
+4207#86-90 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Petites Subterrâneos.#
+#
+
+4208#86-90 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça às Rafflesias.#
+#
+
+4209#86-90 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Venomous.#
+#
+
+4210#86-90 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Mineiros.#
+#
+
+4211#86-90 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Novus Amarelos.#
+#
+
+
+// Eden Group / Paradise Team Quest 91 ~ 99 Time Limit Notification
+4212#91-99 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Soldados.#
+#
+
+4213#91-99 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Congeladores.#
+#
+
+4214#91-99 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Aquecedores.#
+#
+
+4215#91-99 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Injustiçados.#
+#
+
+4216#91-99 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Rybios.#
+#
+
+4217#91-99 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Sacerdotes Malditos.#
+#
+
+4218#91-99 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Stapos.#
+#
+
+4219#91-99 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Roweens.#
+#
+
+4220#91-99 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Siromas.#
+#
+
+4221#91-99 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Shinobis.#
+#
+
+4222#91-99 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça às Ninfas Perversas.#
+#
+
+4223#91-99 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Deviruchis.#
+#
+
+4224#91-99 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Minerais.#
+#
+
+4225#91-99 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Kahos.#
+#
+
+4226#91-99 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça às Nereidas.#
+#
+
+4227#91-99 Cronômetro do Quadro de Missões#SG_FEEL#QUE_NOIMAGE#
+Você deve esperar 3 horas antes de refazer a missão Caça aos Mascarados.#
+#
+
+//----------2012Å©¸®½º¸¶½º_Feliz Natal, Equipe Fumacentos em Ação!
+
+1276#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Colete 10 Doces Roubados, 10 Biscoitos Roubados e 10 Mochila de Itens Roubados se derrotar Fumacentos em Meias e Fumacentos Natalinos.#
+Fale com Lutir, o dono da loja#
+
+1277#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#3
+O balconista da Fumacentos em Ação parece estar encrencado, você deveria visitá-lo para saber mais.#
+Fale com o balconista da Fumacentos em Ação#
+
+1278#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Você decidiu ajudar nas atividades especiais de natal da Equipe Fumacentos em Ação, em vez do balconista. Você deve visitar Prontera para conhecer o capitão da equipe Fumacentos em Ação.#
+Fale com o capitão da Fumacentos em Ação#
+
+1279#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Você deve coletar materiais para a casa dos biscoitos para que a equipe Fumacentos em Ação tenha um natal gostoso!#
+Fale com o capitão da Fumacentos em Ação#
+
+1280#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+O capitão da equipe Fumacentos em Ação está meio deprimido pelo fracasso da casa de biscoitos. Você deve falar com ele novamente.#
+Fale com o capitão da Fumacentos em Ação#
+
+1281#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Encontrando a Família Equipe Fumacentos em Ação! Você convidou 2 integrantes da Fumacentos em Ação. Convide 5 integrantes da Fumacentos em Ação e fale depois com o capitão da equipe #
+Encontre a família Fumacentos em Ação.#
+
+1282#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Encontrando a Família Equipe Fumacentos em Ação! Você convidou 5 integrantes da Fumacentos em Ação. Fale com o capitão da equipe #
+Encontre a família Fumacentos em Ação.#
+
+1283#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Encontrando a Família Equipe Fumacentos em Ação! Você convidou 12 integrantes da Fumacentos em Ação. Fale com o capitão da equipe #
+Encontre a família Fumacentos em Ação.#
+
+1284#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Encontrando a Família Equipe Fumacentos em Ação! Você convidou 20 integrantes da Fumacentos em Ação. Fale com o capitão da equipe #
+Encontre a família Fumacentos em Ação.#
+
+1285#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Encontrando a Família Equipe Fumacentos em Ação! Você convidou 25 integrantes da Fumacentos em Ação. Fale com o capitão da equipe #
+Encontre a família Fumacentos em Ação.#
+
+1286#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Encontrando a Família Equipe Fumacentos em Ação! Você convidou 1 integrante da Fumacentos em Ação. Convide 5 integrantes da Fumacentos em Ação e fale depois com o capitão da equipe #
+Encontre a família Fumacentos em Ação.#
+
+1287#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Encontrando a Família Equipe Fumacentos em Ação! Você convidou 15 integrantes da Fumacentos em Ação. Fale com o capitão da equipe #
+Encontre a família Fumacentos em Ação.#
+
+1288#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Encontrando a Família Equipe Fumacentos em Ação! Você convidou 7 integrantes da Fumacentos em Ação. Fale com o capitão da equipe #
+Encontre a família Fumacentos em Ação.#
+
+1289#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Encontrando a Família Equipe Fumacentos em Ação! Você convidou 17 integrantes da Fumacentos em Ação. Fale com o capitão da equipe #
+Encontre a família Fumacentos em Ação.#
+
+1290#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Encontrando a Família Equipe Fumacentos em Ação! Você convidou 24 integrantes da Fumacentos em Ação. Fale com o capitão da equipe #
+Encontre a família Fumacentos em Ação.#
+
+1291#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Encontrando a Família Equipe Fumacentos em Ação! Você convidou 3 integrantes da Fumacentos em Ação. Fale com o capitão da equipe #
+Encontre a família Fumacentos em Ação.#
+
+1292#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Encontrando a Família Equipe Fumacentos em Ação! Você convidou 10 integrantes da Fumacentos em Ação. Fale com o capitão da equipe #
+Encontre a família Fumacentos em Ação.#
+
+1293#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Encontrando a Família Equipe Fumacentos em Ação! Você convidou 11 integrantes da Fumacentos em Ação. Fale com o capitão da equipe #
+Encontre a família Fumacentos em Ação.#
+
+1294#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Encontrando a Família Equipe Fumacentos em Ação! Você convidou 19 integrantes da Fumacentos em Ação. Fale com o capitão da equipe #
+Encontre a família Fumacentos em Ação.#
+
+1295#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Encontrando a Família Equipe Fumacentos em Ação! Você convidou 23 integrantes da Fumacentos em Ação. Fale com o capitão da equipe #
+Encontre a família Fumacentos em Ação.#
+
+1296#Feliz Natal, Equipe Fumacentos em Ação!#SG_FEEL#QUE_NOIMAGE#
+Convide 5 integrantes da equipe Fumacentos em Ação para o dia de natal. Você pode encontrá-los nas cidades e campos.#
+Encontre a família Fumacentos em Ação.#
+
+//------ 2011.05 malangdo
+//---------?Malangdo Daily Quest - Help the Bad Cats --------------------------------
+
+1145#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
+Faça um favor a Gobong, que está com dor de barriga. Vá para o porto e tente ouvir a conversa suspeita.#
+Perto do Gato Tolo.#
+
+1146#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
+Dos vendedores suspeitos, você ouviu uma conversa sobre o objeto escondido. Verifique a área perto da sacola do balão que está a norte do navio Navi.#
+#
+
+1147#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
+A única coisa que você achou foi um memorando inútil. Vá escutar os negociantes um pouco mais.#
+Perto do Gato Tolo.#
+
+1148#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
+Através da conversa dos negociantes suspeitos ,você percebeu que o local escondido é o próprio navio Navi. Encontre outro gato suspeito no convés do navio Navi.#
+Convés do navio Navi.#
+
+1149#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
+De acordo com o Vendedor Muito Suspeito, você decidiu dar uma olhada por Gozangee.#
+Lounge do navio Navi.#
+
+1150#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
+Você encontrou um saco de latas vencidas no convés do navio Navi.#
+Você precisa ver o Vendedor Muito Suspeito de novo#
+
+1151#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
+Junte 30 latas vencidas na Área do Coral Estrelado e volte para Gobonge.#
+#
+
+1152#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
+Missão de ajudar os gatos maus cumprida.# 
+Depois de 1 dia, você pode ajudá-los de novo.#
+
+1153#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
+Vá ver o Líder da Patrulha e diga olá para Gobonge.#
+Líder da Patrulha.#
+
+1154#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
+Depois de limpar 20 Red Erumas, na Área do Coral Estralado, informe isso ao Líder da Patrulha.#
+Líder da Patrulha.#
+
+1155#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
+Informe a má ação a Gobonge.#
+Gobonge#
+
+//- ????
+4197#Polvo#SG_FEEL#QUE_NOIMAGE#
+O Polvo aparece a cada 3 horas.#
+Próxima hora de sua aparição: 3 horas.#
+
+// 2010 ??? - ?? ????
+5058#O humor dos jogadores-(1)#SG_FEEL#QUE_NOIMAGE#
+O Diretor dos Cat Gamers está preocupado depois de uma sequência de 10 derrotas!!!#
+Pergunte ao Diretor dos Cat Gamers sobre o humor atual dos jogadores Nyang.#
+
+5059#O humor dos jogadores-(2)#SG_FEEL#QUE_NOIMAGE#
+Ouvi do diretor sobre o humor dos jogadores.#
+Vamos enviar para o Diretor dos Cat Gamers.#
+
+5060#Choque de gato#SG_FEEL#QUE_NOIMAGE#
+O Diretor dos Cat Gamers ficou muito chocado.#
+O Diretor dos Cat Gamers pode precisar de um tempo para pensar.#
+
+5061#Estou assustado?#SG_FEEL#QUE_NOIMAGE#
+O Diretor dos Cat Gamers se pergunta se os gatos que deixaram a equipe estão com medo dele ou não... Vamos encontrar os gatos que a abandonaram, Eryu, Stew, Ketchup e Eff.#
+Por favor, o Diretor dos Cat Gamers te pediu isso.#
+
+5062#Encontrei Eryu.#SG_FEEL#QUE_NOIMAGE#
+Encontrei Eryu.#
+Encontrei Eryu.#
+
+5063#Encontrei Stew.#SG_FEEL#QUE_NOIMAGE#
+Encontrei Stew.#
+Encontrei Stew.#
+
+5064#Encontrei Ketchup.#SG_FEEL#QUE_NOIMAGE#
+Encontrei Ketchup.#
+Encontrei Ketchup.#
+
+5065#Encontrei Eff.#SG_FEEL#QUE_NOIMAGE#
+Encontrei Eff.#
+Encontrei Eff.#
+
+5066#Imagem assustadora-(1)#SG_FEEL#QUE_NOIMAGE#
+O Diretor dos Cat Gamers quer mudar sua imagem assustadora.#
+Deixe-me perguntar ao Gerente Cat quem é aprovado pelo Diretor dos Cat Gamers.#
+
+5067#Imagem assustadora-(2)#SG_FEEL#QUE_NOIMAGE#
+O Gerente Cat disse "Imagem assustadora... isso é mesmo difícil... Por que não desistir... Isso seria mais fácil.... recolher reclamações... !! Eu ouvi que, às vezes, o exército faz isso...”#
+Diga ao Diretor dos Cat Gamers para trazer uma caixa para recolher reclamações.#
+
+5068#Recolher reclamações#SG_FEEL#QUE_NOIMAGE#
+Estamos recolhendo reclamações dos 'Jogadores Nyang'.#
+O tempo de coleta é apenas de 20 horas.#
+
+5069#Sinal de honra#SG_FEEL#QUE_NOIMAGE#
+Agora, estamos produzindo um sinal de honra que é resultado do esforço e sofrimento da equipe técnica Nyang.#
+Por favor, volte em 1 hora e pegue o sinal de honra do Diretor dos Cat Gamers.#
+
+5070#Partida de treino de pedra-papel-tesoura#SG_FEEL#QUE_NOIMAGE#
+Eu tenho uma partida de treino de pedra-papel-tesoura com um 'jogador Nyang'.#
+O próximo treino será após 24 horas.#
+
+5071#Prática de treino de Chamchamcham#SG_FEEL#QUE_NOIMAGE#
+Eu tenho uma partida de treino de Chamchamcham com um 'jogador Nyang'.#
+O próximo treino será após 24 horas.#
+
+5072#Partida de treino de KongNyangKong#SG_FEEL#QUE_NOIMAGE#
+Eu tenho uma partida de treino de KongNyangKong com um 'jogador Nyang'.#
+O próximo treino será após 24 horas.#
+
+5073#Desafiando no jogo da bandeira#SG_FEEL#QUE_NOIMAGE#
+'Eu desafiei a equipe do jogo da bandeira dos 'jogadores Nyang'.#
+O próximo desafio será após 24 horas.#
+
+5074#Refeição de gato#SG_FEEL#QUE_NOIMAGE#
+Eu recebi este papel porque perdi a partida de treino. '^0000FF30 Phens Deliciosos, 10 Caudas de Peixe Especiais^000000' está escrito aqui.#
+Depois que terminar o trabalho, por favor, informe ao Diretor dos Cat Gamers.#
+
+5075#Comida saudável#SG_FEEL#QUE_NOIMAGE#
+Eu recebi este papel porque perdi uma partida de treino... '^0000FF50 Martes, 30 garrafas de Leite^000000'está escrito aqui.#
+Depois que terminar o trabalho, por favor, informe ao Diretor dos Cat Gamers.#
+
+5076#Inimigos#SG_FEEL#QUE_NOIMAGE#
+Eu recebi este papel porque perdi uma partida de treino... '^0000FFPerturbe 30 Kobolds Arqueiros^000000'está escrito aqui.#
+Depois que terminar o trabalho, por favor, informe ao Diretor dos Cat Gamers.#
+
+5077#Treinando reação#SG_FEEL#QUE_NOIMAGE#
+Eu recebi este papel porque perdi uma partida de treino... '^0000FFCapture 10 Cramps^000000'está escrito aqui.#
+Depois que terminar o trabalho, por favor, informe ao Diretor dos Cat Gamers.#
+
+5078#Comida de ave leve#SG_FEEL#QUE_NOIMAGE#
+Eu recebi este papel porque perdi uma partida de treino... '^0000FF50 Pecopecos^000000'está escrito aqui.#
+Depois que terminar o trabalho, por favor, informe ao Diretor dos Cat Gamers.#
+
+5079#Como estabilizar a mente#SG_FEEL#QUE_NOIMAGE#
+Eu recebi este papel porque perdi uma partida de treino... '^0000FF20 Novelos para o Diretor dos Cat Gamers^000000'está escrito aqui.#
+Depois que terminar o trabalho, por favor, informe ao Diretor dos Cat Gamers.#
+
+5080#Falta de lanche#SG_FEEL#QUE_NOIMAGE#
+Eu recebi este papel porque perdi uma partida de treino... '^0000FF30 Caudas de Rato^000000'está escrito aqui.#
+Depois que terminar o trabalho, por favor, informe ao Diretor dos Cat Gamers.#
+
+5081#Comida banida#SG_FEEL#QUE_NOIMAGE#
+Eu recebi este papel porque perdi uma partida de treino... '^0000FF5 Limões^000000'está escrito aqui.#
+Depois que terminar o trabalho, por favor, informe ao Diretor dos Cat Gamers.#
+
+5082#Comida fria#SG_FEEL#QUE_NOIMAGE#
+Eu recebi este papel porque perdi uma partida de treino... '^0000FF10 Cubos de Gelo ou Sorvete^000000'está escrito aqui.#
+Depois que terminar o trabalho, por favor, informe ao Diretor dos Cat Gamers.#
+
+5083#Por favor, volte, Eryu-(1)#SG_FEEL#QUE_NOIMAGE#
+Trabalho que recebi porque perdi uma partida de treino. Encontre Eryu e diga'^0000FFVolte^000000'.#
+Depois que terminar o trabalho, por favor, informe ao Diretor dos Cat Gamers.#
+
+5084#Por favor, volte, Eryu-(2)#SG_FEEL#QUE_NOIMAGE#
+Encontre Eryu e diga 'Volte'.#
+Depois que terminar o trabalho, por favor, informe ao Diretor dos Cat Gamers.#
+
+5085#Por favor, volte, Stew-(1)#SG_FEEL#QUE_NOIMAGE#
+Favor que recebi porque perdi uma partida de treino. Encontre Stew e diga'^0000FFVolte^000000'.#
+Depois que terminar o trabalho, por favor, informe ao Diretor dos Cat Gamers.#
+
+5086#Por favor, volte, Stew-(2)#SG_FEEL#QUE_NOIMAGE#
+Encontre Stew e diga 'Volte'.#
+Depois que terminar o trabalho, por favor, informe ao Diretor dos Cat Gamers.#
+
+5087#Por favor, volte, Ketchup-(1)#SG_FEEL#QUE_NOIMAGE#
+Favor que recebi porque perdi uma partida de treino. Encontre Ketchup e diga'^0000FFVolte^000000'.#
+Depois que terminar o trabalho, por favor, informe ao Diretor dos Cat Gamers.#
+
+5088#Por favor, volte, Ketchup-(2)#SG_FEEL#QUE_NOIMAGE#
+Encontre Ketchup e diga 'Volte'.#
+Depois que terminar o trabalho, por favor, informe ao Diretor dos Cat Gamers.#
+
+5089#Por favor, volte, Eff-(1)#SG_FEEL#QUE_NOIMAGE#
+Favor que recebi porque perdi uma partida de treino. Encontre Eff e diga'^0000FFVolte^000000'.#
+Depois que terminar o trabalho, por favor, informe ao Diretor dos Cat Gamers.#
+
+5090#Por favor, volte, Eff-(2)#SG_FEEL#QUE_NOIMAGE#
+Encontre Eff e diga 'Volte'.#
+Depois que terminar o trabalho, por favor, informe ao Diretor dos Cat Gamers.#
+
+5091#Vá para Malangdo#SG_FEEL#QUE_NOIMAGE#
+Vá para Malangdo...#
+Malangdo#
+
+//-- ??? ?? ???
+7242#Brincar com o gatinho#SG_FEEL#QUE_NOIMAGE#
+A solicitação de Rato, um marinheiro gato especialista, em Malangdo. Ele se preocupa com os gatinhos, então, te pediu para encontrá-los e brincar com eles. Vá encontrar os gatinhos. Eles são Rosy, a branca, Roku, o preto e Charo, o dourado.#
+#
+
+7243#Nyadventure-Bússola Duruduru#SG_FEEL#QUE_NOIMAGE#
+Você recebeu uma carta de bravura A dos gatinhos que chamam a si mesmos de 'Equipe de Bravura Meow'. A carta parece ser necessária para operar alguns dispositivos feitos por eles. Se colocar a carta na Bússola do Começo, o jogo começará.#
+#
+
+7244#Nyadventure-Corrida Duruduru#SG_FEEL#QUE_NOIMAGE#
+A corrida da Bússola Duruduru começou. Você tem que terminar a corrida na ordem correta dentro do tempo limite. A ordem das bússolas é [Chama Vermelha] -> [Chama Azul] -> [Chama Dourada] -> [Floresta] -> [Nuvem].#
+#
+
+7245#Nyadventure-Corrida Duruduru#SG_FEEL#QUE_NOIMAGE#
+A corrida da Bússola Duruduru começou. Você tem que terminar a corrida na ordem correta dentro do tempo limite. A ordem das bússolas é [Chama Dourada] -> [Chama Azul] -> [Nuvem] -> [Floresta] -> [Chama Vermelha].#
+#
+
+7246#Nyadventure-Estou indo agora.#SG_FEEL#QUE_NOIMAGE#
+Charo diz que um detetive gato está perto do navio Navi que está no centro de Malangdo. Vá encontrar o detetive e seu amigo.#
+#
+
+7247#Nyadventure-Pare o Bang!#SG_FEEL#QUE_NOIMAGE#
+Homnya, um gato questionável que chama a si mesmo de 'detetive de verdade' e seu amigo, Nyangson, dizem que se a máquina em frente explodir, toda Malangdo será destruída. Então, eles pediram para você parar a máquina.#
+#
+
+7248##SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+7249#Nyadventure-Bang! Vejo você da próxima vez#SG_FEEL#QUE_NOIMAGE#
+De acordo com Homnya e Nyangson, esta máquina chamada Bang causa um problema por minuto. Você nunca sabe quando terá problemas. Verifique a máquina de novo amanhã.#
+#
+
+7250#Nyadventure-Tesouro escondido?#SG_FEEL#QUE_NOIMAGE#
+Quando Bang para, Homnya e Nyangson te dão uma informação útil. Eles falam sobre um tesouro. Homnya diz que o tesouro está dentro do navio Navi. Pode ser só uma piada, mas vale a pena tentar.#
+#
+
+7251#Nyadventure-A primeira parte da pintura#SG_FEEL#QUE_NOIMAGE#
+A parte da pintura que você achou na caixa no navio Navi#
+#
+
+7252#Nyadventure-A segunda parte da pintura#SG_FEEL#QUE_NOIMAGE#
+A parte da pintura que você achou no livro na sala de reuniões do navio Navi#
+#
+
+7253#Nyadventure-A terceira parte da pintura#SG_FEEL#QUE_NOIMAGE#
+A parte da pintura que você achou debaixo da cama antiga na cabine da tripulação.#
+#
+
+7254#Nyadventure-A quarta parte da pintura#SG_FEEL#QUE_NOIMAGE#
+A parte da pintura que você achou na concha decorativa no quarto do capitão.#
+#
+
+7255#Nyadventure-A quinta parte da pintura#SG_FEEL#QUE_NOIMAGE#
+A parte da pintura que você achou na rachadura do pilar de madeira.#
+#
+
+7256#Nyadventure-A sexta parte da pintura#SG_FEEL#QUE_NOIMAGE#
+A parte da pintura que você achou na janela de ventilação no chão da cabine.#
+#
+
+7257#Nyadventure-Corrida, volte amanhã!#SG_FEEL#QUE_NOIMAGE#
+A Corrida Duruduru é boa, se você competir uma vez por dia. Se quiser, volte mais tarde.#
+#
+
+7258#Nyadventure-Pintura concluída#SG_FEEL#QUE_NOIMAGE#
+As partes que você encontrou no navio são 6, no total. Parece uma pintura completa. Vá até Charo, Rosy e Roku e diga isso a eles.#
+#
+
+7259#Presente da Equipe de Bravura Meow#SG_FEEL#QUE_NOIMAGE#
+Charo, Rosy e Roku dizem que querem dar as partes da pintura que você encontrou para Rato. Leve a pintura para Rato para entregar o amor dos gatinhos (mesmo que a pintura não esteja inteira).#
+#
+
+//---- Chefe de Malangdo
+7260#A origem dos insetos#SG_FEEL#QUE_NOIMAGE#
+Cleanyang está chorando muito dizendo que os insetos aparecem seguidamente, mesmo ele tendo limpado todo o navio. Ajude-o. Inspecione o navio Navi meticulosamente.#
+#
+
+7261#Recolha os biscoitos de gato do navio-Quarto do Capitão#SG_FEEL#QUE_NOIMAGE#
+No canto do quarto do capitão, você encontrou biscoito de gato duro escondido. O biscoito estava coberto de insetos. Os insetos devem estar lá pelo biscoito...#
+#
+
+7262#Recolha os biscoitos de gato do navio-Cabine da Tripulação#SG_FEEL#QUE_NOIMAGE#
+No quarto dos marinheiros, você encontrou biscoito de gato duro escondido. O biscoito estava coberto de insetos. Os insetos devem estar lá pelo biscoito...#
+#
+
+7263#Recolha os biscoitos de gato do navio-Sala de Reuniões#SG_FEEL#QUE_NOIMAGE#
+Em algum lugar na sala de reuniões, você encontrou biscoito de gato duro escondido. O biscoito estava coberto de insetos. Os insetos devem estar lá pelo biscoito...#
+#
+
+7264#Para o Chefe Nyas#SG_FEEL#QUE_NOIMAGE#
+Cleanyang limpou todo o navio, mas o problema são os biscoitos de gato duros que estavam além do seu alcance. Você deve contar a verdade a Nyas e limpar Cleanyang da acusação falsa.#
+Falando com Nyas#
+
+7265#Fúria do Chefe Nyas#SG_FEEL#QUE_NOIMAGE#
+Quando você contou a história dos biscoitos e insetos, o chefe ficou com muita raiva. É melhor falar com ele mais tarde.#
+Falando com Nyas#
+
+7266#Declaração do Chefe Nyas#SG_FEEL#QUE_NOIMAGE#
+Nyas decidiu e declarou que, de agora em diante, pelo menos uma refeição do dia será biscoitos de gato duros. Ele pediu para você trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso para fazer os biscoitos.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, entregue a mensagem a Cleanyang.#
+
+7267#Hora marcada com Cleanyang#SG_FEEL#QUE_NOIMAGE#
+Para resolver o incidente dos biscoitos de gato duros, você vai trabalhar com Cleanyang. Volte até Cleanyang na hora marcada.#
+#
+
+7268#Encontrar os biscoitos de gato duros!#SG_FEEL#QUE_NOIMAGE#
+Você vai pegar os biscoitos que os gatos começaram a esconder no navio. Se tirar os biscoitos, os insetos vão desaparecer. Concentre-se nos 9 locais onde os biscoitos são vistos frequentemente.#
+#
+
+7269#Recolha os biscoitos de gato do navio-Área de Lazer#SG_FEEL#QUE_NOIMAGE#
+Nas ervas daninhas na área de lazer externa, você encontrou biscoito de gato duro escondido. O biscoito estava coberto de insetos. Os insetos devem estar lá pelo biscoito...#
+#
+
+7270#Recolha os biscoitos de gato do navio-Caixa de Areia#SG_FEEL#QUE_NOIMAGE#
+Na estranha pilha de areia, você encontrou biscoito de gato duro escondido. O biscoito estava coberto de insetos. Os insetos devem estar lá pelo biscoito...#
+#
+
+7271#Recolha os biscoitos de gato do navio-Embaixo das Escadas#SG_FEEL#QUE_NOIMAGE#
+No canto embaixo da escada, você encontrou biscoito de gato duro escondido. O biscoito estava coberto de insetos. Os insetos devem estar lá pelo biscoito...#
+#
+
+7272#Recolha os biscoitos de gato do navio-Canto da Torre dos Gatos#SG_FEEL#QUE_NOIMAGE#
+No canto da torre dos gatos, você encontrou biscoito de gato duro escondido. O biscoito estava coberto de insetos. Os insetos devem estar lá pelo biscoito...#
+#
+
+7273#Recolha os biscoitos de gato do navio-Canto da Cabine#SG_FEEL#QUE_NOIMAGE#
+No vão entre a cabine e a parede, você encontrou biscoito de gato duro escondido. O biscoito estava coberto de insetos. Os insetos devem estar lá pelo biscoito...#
+#
+
+7274#Recolha os biscoitos de gato do navio-Base da Torre dos Gatos#SG_FEEL#QUE_NOIMAGE#
+No vão entre a base e o chão, você encontrou biscoito de gato duro escondido. O biscoito estava coberto de insetos. Os insetos devem estar lá pelo biscoito...#
+#
+
+7275#Recolha os biscoitos de gato do navio-Catacumba de Areia#SG_FEEL#QUE_NOIMAGE#
+Em uma catacumba de areia, você encontrou biscoito de gato duro escondido. O biscoito estava coberto de insetos. Os insetos devem estar lá pelo biscoito...#
+#
+
+7276#Prometa entregar mais comida#SG_FEEL#QUE_NOIMAGE#
+Chefe Nyas quer que você entregue os ingredientes para o biscoito e para novas comidas todo dia. De qualquer forma, volte até ele sempre que puder.#
+#
+
+//-?
+7281#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Suco de Uva e Mel.#
+
+7282#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Bolo-Mousse de Chocolate.#
+
+7283#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Salada de Frutas.#
+
+7284#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Sanduíche Cremoso.#
+
+7285#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Salada Verde.#
+
+7286#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Bolo de Pêssego.#
+
+7287#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Pão Doce Assombroso.#
+
+7288#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Torrada Especial.#
+
+7289#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Suco de Frutas Divino.#
+
+7290#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Tônico de Hwergelmir.#
+
+//-?
+7291#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Perna de Gafanhoto Frita.#
+
+7292#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Palmípede Temperado.#
+
+7293#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Bife Bombástico.#
+
+7294#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Bife Marinado com Ervas.#
+
+7295#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Panqueca de Lutie.#
+
+7296#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Bife Marinado Brilhante.#
+
+7297#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Assado Inteiro.#
+
+7298#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Pé de Urso Especial.#
+
+7299#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Sauté de Tendões.#
+
+7300#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Língua no Vapor.#
+
+//-??
+7301#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Sopa de Tinta de Lula e Ovas de Sapo.#
+
+7302#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Macarrão Liso.#
+
+7303#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Queijo Gratinado com Tentáculos.#
+
+7304#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Macarrão Frio de Lutie.#
+
+7305#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Asa de Morcego com Abóbora no Vapor.#
+
+7306#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Gratinado de Chilli e Camarão.#
+
+7307#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Crocodilo no Vapor com Vegetais.#
+
+7308#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Curry Incrivelmente Picante.#
+
+7309#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Cozido de Carne Especial.#
+
+7310#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Escorpião no Vapor.#
+
+//-??
+7311#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Garra de Caranguejo no Vapor.#
+
+7312#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Fruto do Mar Sortido.#
+
+7313#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Sopa de Ostra.#
+
+7314#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Água-Viva Temperada.#
+
+7315#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Bolinho Apimentado Frito.#
+
+7316#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Bebida Amargosa.#
+
+7317#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Banquete Suntuoso.#
+
+7318#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Burrito Gigante.#
+
+7319#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Sopa de Dragão Ascendente.#
+
+7320#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Cozido de Imortalidade.#
+
+//-??
+7321#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Chá de Ervas com Uva.#
+
+7322#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Chá Vermelho de Outono.#
+
+7323#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Chá de Ervas e Mel.#
+
+7324#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Vinho de Frutas de Morroc.#
+
+7325#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Vinho de Mastela.#
+
+7326#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Vinho de Cogumelo Vermelho.#
+
+7327#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Chá de Ervas e Geleia Real Especial.#
+
+7328#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Chá de Família Real.#
+
+7329#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Tristram. 12#
+
+7330#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Coquetel Sopro do Dragão.#
+
+//-?
+7331#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Cauda de Macaco Frita.#
+
+7332#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Suco Misto.#
+
+7333#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Batata-Doce Frita.#
+
+7334#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Lábio Fossilizado no Vapor.#
+
+7335#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Cauda de Escorpião Frita.#
+
+7336#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Sopa da Sorte.#
+
+7337#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Espetinho Sortido.#
+
+7338#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Bolinho de Arroz com Morango.#
+
+7339#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Refrigerante Sangrento.#
+
+7340#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Nove-Caudas Cozido.#
+
+//-20??
+7341#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Churrasco Selvagem.#
+
+7342#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Coquetel com Sangue de Wug.#
+
+7343#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Carne ao Vinho.#
+
+7344#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Chá Gelado de Siroma.#
+
+7345#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Cozido de Erva Drocera.#
+
+7346#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
+Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Macarrão com Rabo de Petti.#
+
+//--????? ??(??14.1???_?????)
+11209#A aflição de Sr. Tomas#SG_FEEL#QUE_NOIMAGE#
+Todos os humanos que visitam Malangdo estão vindo a mim é por isso que eu tenho tanto trabalho. Há uma ^0000FFreunião regular em Malangdo^000000, logo ali. O local fica do ^0000FFoutro lado, no fim do corredor^000000.#
+Participe na reunião.#
+
+11210#Reunião regular de Malangdo#SG_FEEL#QUE_NOIMAGE#
+A agenda de hoje é ^ff99ccDoce Estelar^000000. Se alguém tiver opinião sobre o próximo tópico, por favor, fale.#
+Vamos ouvir a opinião de Scottfold.#
+
+11211#Reunião regular de Malangdo#SG_FEEL#QUE_NOIMAGE#
+O ^0000FFintérprete Biscuit^000000 está ao lado dela, mas é muito difícil ter uma conversa detalhada.#
+Vamos ouvir a opinião de Koon.#
+
+11212#Reunião regular de Malangdo#SG_FEEL#QUE_NOIMAGE#
+Deixe-me falar sobre o resultado do estudo.#
+Vamos ouvir o resultado do estudo do linguista Devore.#
+
+11213#Reunião regular de Malangdo#SG_FEEL#QUE_NOIMAGE#
+^0000FFO estudo da língua Starfish^000000 começou quando nos fixamos em Malangdo, mas não atingiu o que eu esperava. É possível ter uma conversa simples, mas o desempenho não é bom.#
+Vamos ouvir o resultado do estudo do geólogo Mali.#
+
+11214#Reunião regular de Malangdo#SG_FEEL#QUE_NOIMAGE#
+Há muitas rachaduras no chão. Ninguém sabe quando Doce Estelar se moverá, então, temos que consertá-las rapidamente.#
+Vamos ouvir a opinião de Brie.#
+
+11215#Reunião regular de Malangdo#SG_FEEL#QUE_NOIMAGE#
+Entendemos muito bem que o ferimento de Rican pode afetar o comércio de Frutos de Yggdrasil, então, não se preocupem com isso.#
+Vamos ouvir a história de Brie.#
+
+11216#Fruto de Yggdrasil#SG_FEEL#QUE_NOIMAGE#
+De qualquer forma, não conheço exatamente os Frutos de Yggdrasil. Se tem uma pergunta, vá para minha casa no ^6666ccoeste de Malangdo^000000. Meu pai estará superentediado lá...#
+Vamos encontrar o pai de Brie, Sr. Rican.#
+
+11217#Fruto de Yggdrasil#SG_FEEL#QUE_NOIMAGE#
+^6666ccOs Frutos de Yggdrasil estão em todos os lugares!^000000 Você pode conseguir facilmente na ilha de Malangdo, então, por favor, traga mais ou menos 30 deles.#
+Vamos trazer 30 Frutos de Yggdrasil frescos.#
+
+11218#Fruto de Yggdrasil#SG_FEEL#QUE_NOIMAGE#
+Por que não coloca alguns Frutos de Yggdrasill na máquina?#
+Vamos colocar Frutos de Yggdrasil na máquina.#
+
+11219#Fruto de Yggdrasil#SG_FEEL#QUE_NOIMAGE#
+Ao apertar o botão, a máquina funciona.#
+Vamos falar com Rican.#
+
+11220#Fruto de Yggdrasil#SG_FEEL#QUE_NOIMAGE#
+Depois que machuquei meu joelho, ele deve ir para o Sr. Mali todo dia. Se você vir meu filho, apenas diga para ele voltar para mim...#
+Vamos encontrar Brie.#
+
+11221#A gelatina mais macia do mundo.#SG_FEEL#QUE_NOIMAGE#
+Se você precisar de mais detalhes, por favor, peça ao meu ^6666ccassistente Bob^000000. Ele pode estar na ^6666ccpróxima sala^000000.#
+Vamos encontrar o assistente Bob.#
+
+11222#A gelatina mais macia do mundo.#SG_FEEL#QUE_NOIMAGE#
+Preencha a rachadura com o barro cinza e branco. Prenda o vão com o grampeador.#
+Vamos consertar as rachaduras com o kit de conserto, quando todos disserem OK...#
+
+11223#A gelatina mais macia do mundo.#SG_FEEL#QUE_NOIMAGE#
+A rachadura está bem preenchida. Vamos relatar isso a Bob.#
+Vamos voltar para Bob.#
+
+11224#A gelatina mais macia do mundo.#SG_FEEL#QUE_NOIMAGE#
+Impressionante! Mágico! Chocante! Muito bem!!! Contarei para o Dr. Mali!#
+Vamos ver o Dr. Mali.#
+
+11225#Não interferir nos esforços da estrada.#SG_FEEL#QUE_NOIMAGE#
+Todo mundo sabe como o Dr. Devore se concentra no estudo da língua Starfish!!! Por favor, tenha confiança! Você está indo bem!#
+O linguista Devore pode estar em crise. Vamos falar com ele.#
+
+11226#Não interferir nos esforços da estrada.#SG_FEEL#QUE_NOIMAGE#
+A língua Starfish é tão misteriosa. Eu não sei nada. Não tenho certeza se é mesmo uma 'língua' ou não. Eu realmente quero saber o que eles querem aqui!#
+Vamos pesquisar a língua Starfish.#
+
+11227#Não interferir nos esforços da estrada.#SG_FEEL#QUE_NOIMAGE#
+Biscuit pode ter habilidades linguísticas muito fluentes, diferente do que o Dr. Devore diz. Vou contar o fato para o Dr. Devore.#
+Vamos ao Dr. Devore.#
+
+11228#Não interferir nos esforços da estrada.#SG_FEEL#QUE_NOIMAGE#
+Isso é incrível. Bem, ele só não falou na minha frente. Vamos ouvir!!!#
+Vamos voltar para Biscuit.#
+
+11229#Por Doce Estelar.#SG_FEEL#QUE_NOIMAGE#
+Você é capaz de falar com Biscuit como espécie igual. Qualquer conversa vai ajudar no meu estudo.#
+Vamos falar com Biscuit.#
+
+11230#Por Doce Estelar.#SG_FEEL#QUE_NOIMAGE#
+Eu ouvi diversas coisas sobre Doce Estelar, Biscuit e Malangdo.#
+Continue a conversa.#
+
+11231#Por Doce Estelar.#SG_FEEL#QUE_NOIMAGE#
+Você pode capturar a gelatina por aqui. 30 gelatinas deliciosas são suficientes para uma refeição.#
+Vamos voltar com 30 gelatinas deliciosas.#
+
+11232#Por Doce Estelar.#SG_FEEL#QUE_NOIMAGE#
+Ei, Doce Estelar! Você não está comendo bem. Você não tem apetite?#
+Vamos descobrir o que está acontecendo.#
+
+11233#Por Doce Estelar.#SG_FEEL#QUE_NOIMAGE#
+Temos que carregar água, então, por favor, traga balde e escova para limpar Doce Estelar. Essas coisas devem estar no armazém.#
+Vamos encontrar o balde e a escova de limpeza.#
+
+11234#Por Doce Estelar.#SG_FEEL#QUE_NOIMAGE#
+Você trouxe as coisas também. Você pode esfregar sua pele em sentido anti-horário!#
+Limpe pele seca -> pele espinhosa -> pele rachada -> pele dura.#
+
+11235#Por Doce Estelar.#SG_FEEL#QUE_NOIMAGE#
+A pele seca, pele espinhosa, pele rachada e pele dura mudaram para pele macia como seda.#
+Vamos voltar para Biscuit.#
+
+11236#Interseção#SG_FEEL#QUE_NOIMAGE#
+Você não precisa esperar que o estudo esteja concluído. Apenas conte a Devore. Eu quero falar sobre a situação atual com ele.#
+Vamos enviar para o Dr. Devore.#
+
+11237#A aflição de Sr. Tomas#SG_FEEL#QUE_NOIMAGE#
+Por favor, dê as boas notícias ao Chefe Tomas.#
+Vamos ver o Chefe Tomas.#
+
+11238#Fruto de Yggdrasil#SG_FEEL#QUE_NOIMAGE#
+O desconto é como antes. 30 Frutos de Yggdrasil frescos que são achados facilmente na ilha Malangdo!!!#
+Vamos voltar para Rican com 30 Frutos de Yggdrasil frescos.#
+
+11239#Fruto de Yggdrasil#SG_FEEL#QUE_NOIMAGE#
+Você não pode receber nenhuma solicitação de Rican durante um dia.#
+#
+
+11240#A gelatina mais macia do mundo.#SG_FEEL#QUE_NOIMAGE#
+Se você precisar de mais detalhes, por favor, peça ao meu ^6666ccassistente Bob^000000. Ele pode estar na ^6666ccpróxima sala^000000.#
+Vamos ver o assistente Bob.#
+
+11241#A gelatina mais macia do mundo.#SG_FEEL#QUE_NOIMAGE#
+Preencha a rachadura com o barro cinza e branco. Prenda o vão com o grampeador.#
+Vamos consertar as rachaduras com o kit de conserto, quando todos disserem OK...#
+
+11242#A gelatina mais macia do mundo.#SG_FEEL#QUE_NOIMAGE#
+A rachadura está bem preenchida. Vamos relatar ao Dr. Mali.#
+Vamos voltar para o Dr. Mali.#
+
+11243#A gelatina mais macia do mundo.#SG_FEEL#QUE_NOIMAGE#
+Você não pode receber nenhuma solicitação de Dr. Mali durante um dia.#
+#
+
+11244#Gelatina Macia#SG_FEEL#QUE_NOIMAGE#
+Capture alguma gelatina por aqui. Acho que 30 gelatinas deliciosas são suficientes para uma refeição.#
+Vamos voltar com 30 gelatinas deliciosas.#
+
+11245#Gelatina Macia#SG_FEEL#QUE_NOIMAGE#
+Você não pode receber nenhuma solicitação de Biscuit durante um dia.#
+#
+
+//--????? ?? ???(??14.1???_?????)
+12254#Vamos Limpar!#SG_FEEL#QUE_NOIMAGE#
+Agora é hora de limpar Por favor, concentre-se em um ponto até que termine.#
+Limpando os esgotos por 1 hora.#
+
+12255#Cace caranguejo das Profundezas.#SG_FEEL#QUE_NOIMAGE#
+Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffcaranguejo de alto-mar ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
+Cace 20 caranguejo das Profundezas - Apareça no Calabouço dos Esgotos no modo normal.#
+
+12256#Cace Marte das Profundezas.#SG_FEEL#QUE_NOIMAGE#
+Hoje, herói dos esgotos, definimos a data para o extermínio do^0000fflula de alto-mar ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
+Cace 20 Marte das Profundezas - Apareça no Calabouço dos Esgotos no modo normal.#
+
+12257#Cace Vadon Ancestral.#SG_FEEL#QUE_NOIMAGE#
+Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffcrustáceo antigo ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
+Cace 20 Vadon Ancestral- Apareça no Calabouço dos Esgotos no modo normal.#
+
+12258#Cace Ostra das Profundezas.#SG_FEEL#QUE_NOIMAGE#
+Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffconcha de alto-mar ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
+Cace 20 Ostra das Profundezas - Apareça no Calabouço dos Esgotos no modo normal.#
+
+12259#Cace kukres ancestrais.#SG_FEEL#QUE_NOIMAGE#
+Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffkukre antigo ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
+Cace 20 kukres ancestrais - Apareça no Calabouço dos Esgotos no modo normal.#
+
+12260#Cace ornutus das Profundezas.#SG_FEEL#QUE_NOIMAGE#
+Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffbúzio de alto-mar ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
+Cace 20 Cornutus das Profundezas - Apareça no Calabouço dos Esgotos no modo normal.#
+
+12261#Cace cavalos marinhos das profundezas.#SG_FEEL#QUE_NOIMAGE#
+Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffcavalo marinho de alto-mar ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
+Cace 30 cavalos marinhos das profundezas - Apareça no Calabouço dos Esgotos no modo difícil.#
+
+12262#Cace peixe espada ancestral.#SG_FEEL#QUE_NOIMAGE#
+Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffpeixe espada antigo ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
+Cace 30 peixes espada ancestral - Apareça no Calabouço dos Esgotos no modo difícil.#
+
+12263#Cace Strouf Ancestral.#SG_FEEL#QUE_NOIMAGE#
+Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffdeus do mar antigo ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
+Cace 30 Strouf Ancestral - Apareça no Calabouço dos Esgotos no modo difícil.#
+
+12264#Cace anolian mutante.#SG_FEEL#QUE_NOIMAGE#
+Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffanolian mutante ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
+Cace 30 anolians mutantes - Apareça no Calabouço dos Esgotos no modo difícil.#
+
+12265#Cace Obeaune das Profundezas.#SG_FEEL#QUE_NOIMAGE#
+Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffsereia de alto-mar ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
+Cace 30 Obeaune das Profundezas - Apareça no Calabouço dos Esgotos no modo difícil.#
+
+12266#Cace kapha mutante.#SG_FEEL#QUE_NOIMAGE#
+Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffkapha mutante ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
+Cace 30 kaphas mutantes - Apareça no Calabouço dos Esgotos no modo difícil.#
+
+12267#Cace celacanto estranho.#SG_FEEL#QUE_NOIMAGE#
+Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffcelacanto estranho ^000000e levantar nossa voz! Vou te dar só uma semana para terminar este trabalho! Extermine todos eles no modo normal no Calabouço dos Esgotos!#
+Cace 1 celacanto estranho - Apareça no Calabouço dos Esgotos no modo normal.#
+
+12268#Cace celacanto das trevas.#SG_FEEL#QUE_NOIMAGE#
+Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffcelacanto das trevas ^000000e levantar nossa voz! Vou te dar só uma semana para terminar este trabalho! Extermine todos eles no modo normal no Calabouço dos Esgotos!#
+Cace 1 celacanto sombrio - Apareça no Calabouço dos Esgotos no modo normal.#
+
+12269#Cace celacanto cruel.#SG_FEEL#QUE_NOIMAGE#
+Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffcelacanto cruel ^000000e levantar nossa voz! Vou te dar só uma semana para terminar este trabalho! Extermine todos eles no modo difícil no Calabouço dos Esgotos!#
+Cace 1 celacanto cruel - Apareça no Calabouço dos Esgotos no modo difícil.#
+
+12270#Cace celacanto mutante.#SG_FEEL#QUE_NOIMAGE#
+Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffcelacanto mutante ^000000e levantar nossa voz! Vou te dar só uma semana para terminar este trabalho! Extermine todos eles no modo difícil no Calabouço dos Esgotos!#
+Cace 1 celacanto mutante - Apareça no Calabouço dos Esgotos no modo difícil.#
+
+12271#Serviço diário único normal nos esgotos em progresso.#SG_FEEL#QUE_NOIMAGE#
+Você já tem 1 solicitação de serviço. Já que você já o fez, não pode receber nova solicitação por um dia.#
+Você está encarregado dos esgotos, normal por 1 dia.#
+
+12272#Serviço diário único difícil nos esgotos em progresso.#SG_FEEL#QUE_NOIMAGE#
+Você já tem 1 solicitação de serviço. Já que você já o fez, não pode receber nova solicitação por um dia.#
+Você está encarregado dos esgotos, difícil por 1 dia.#
+
+12273#Serviço semanal normal nos esgotos em progresso.#SG_FEEL#QUE_NOIMAGE#
+Você já tem 1 solicitação de serviço. Já que você já o fez, não pode receber nova solicitação por 7 dias.#
+Você está encarregado dos esgotos, normal por 7 dias.#
+
+12274#Serviço semanal difícil nos esgotos em progresso.#SG_FEEL#QUE_NOIMAGE#
+Você já tem 1 solicitação de serviço. Já que você já o fez, não pode receber nova solicitação por 7 dias.#
+Você está encarregado dos esgotos, difícil por 7 dias.#
+
+//-- Competição de investimentos em Castelos (conteúdo do Abismo)
+7349#Vote#SG_FEEL#QUE_NOIMAGE#
+Você já votou na região para a conexão com o portal. Não é possível votar novamente até que a eleição termine.#
+#
+
+//==== Missão do laboratório biológico 5109 - 5125
+5109#Rumor sério#SG_FEEL#QUE_NOIMAGE#
+Há rumores de que os experimentos com humanos, que pensávamos ter parado, prosseguem. O que está havendo? É preciso verificar isso.#
+Vamos encontrar o local dos experimentos com humanos.#
+
+5110#O rumor#SG_FEEL#QUE_NOIMAGE#
+Você encontrou Wolfchev, que está envolvido nos rumores sobre experimentos com humanos.#
+Siga-o.#
+
+5111#Para o laboratório…#SG_FEEL#QUE_NOIMAGE#
+Para escapar das cobaias humanas, vá ao laboratório de Wolfchev.#
+O laboratório de Wolfchev está diretamente ao norte.#
+
+5112#Acesso limitado ao laboratório#SG_FEEL#QUE_NOIMAGE#
+Por enquanto, não é possível acessar o sistema de entrada do laboratório.#
+Tempo de espera para entrar (3 dias - 72 horas)#
+
+5113#[Segurança] Lorde#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha o Lorde Seyren!#
+
+5114#[Segurança] Paladino#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha o Paladino Randel!#
+
+5115#[Segurança] Suma Sacerdotisa#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha a Sumo Sacerdotisa Margaretha!#
+
+5116#[Segurança] Mestre#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha o Mestre Chen!#
+
+5117#[Segurança] Arquimaga#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha a Arquimaga Kathryne!#
+
+5118#[Segurança] Professor#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha a Professora Celia!#
+
+5119#[Segurança] Mestre-ferreiro#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha o Mestre-ferreiro Howard!#
+
+5120#[Segurança] Criador#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha o Criador Flamel!#
+
+5121#[Segurança] Algoz#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha o Algoz Eremes!#
+
+5122#[Segurança] Desordeira#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha o Desordeira Gertie!#
+
+5123#[Segurança] Atiradora de Elite#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha a Atiradora de Elite Cecil!#
+
+5124#[Segurança] Menestrel#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha o Menestrel Alphochio!#
+
+5125#[Segurança] Cigana#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha a Cigana Trentini!#
+//-------- Paradise team mid-level quests 2013.10
+7214#Treino Avançado - Passo 1 - Comodo#SG_FEEL#QUE_NOIMAGE#
+Encontre o Membro do Grupo Éden em frente à entrada da caverna norte de Comodo#
+Fale com Romeo#
+
+7215#Treino Avançado - Passo 1.1 - Comodo#SG_FEEL#QUE_NOIMAGE#
+Romeo pediu para que você derrotasse Golems Estalactíticos.#
+Derrote 3 Golem Estalactítico#
+
+7216#Treino Avançado - Passo 1.2 - Comodo#SG_FEEL#QUE_NOIMAGE#
+Agora que você já sabe como é, derrote mais Golems Estalactíticos e encontre Romeo no Pântano de Kalala.#
+Derrote 10 Golem Estalactítico#
+
+7217#Treino Avançado - Passo 1.3 - Comodo#SG_FEEL#QUE_NOIMAGE#
+Romeo te passou uma última missão. Derrote Guerreiros Wootan e Dríades para conseguir alguns itens#
+Traga 5 Ombreiras, 7 Folhas Afiadas#
+
+7218#Reporte para Uru#SG_FEEL#QUE_NOIMAGE#
+Você completou este passo do Grupo Éden. Você pode voltar para a sede do Grupo Éden.#
+Reporte para Uru#
+
+7219#Treino Avançado - Passo 2 - Glast Heim#SG_FEEL#QUE_NOIMAGE#
+Procure o Oficial do Grupo Éden em Glast-heim. Johan está em frente ao monastério de Glast Heim#
+Encontre Johan#
+
+7220#Treino Avançado - Passo 2.1 - Alma Penada#SG_FEEL#QUE_NOIMAGE#
+Johan pediu para você derrotar algumas 'Almas Penadas' no primeiro andar do Monastério.#
+Derrote 20 Almas Penadas#
+
+7221#Treino Avançado - Passo 2.2 - Druida Malígno#SG_FEEL#QUE_NOIMAGE#
+Há alguns druidas no monastério. Entretanto, eles foram corrompidos e não salvam pessoas. Vamos dá-los a paz eterna#
+Derrote 10 Druida Malígno#
+
+7222#Reporte para Uru#SG_FEEL#QUE_NOIMAGE#
+Johan informou que a missão foi completa. Você deve voltar para o Grupo Éden.#
+Reporte para Uru#
+
+7223#Treino Avançado - Passo 3 - Einbroch#SG_FEEL#QUE_NOIMAGE#
+Você deve encontrar o Membro do Grupo Éden, Giren, ao sul de Einbroch para sua próxima missão.#
+Fale com Giren#
+
+7224#Treino Avançado - Passo 3.1 - Porcellio#SG_FEEL#QUE_NOIMAGE#
+Giren, um cara muito relaxado, pediu para você caçar alguns Porcellios.#
+Derrote 30 Porcellios#
+
+7225#Treino Avançado - Passo 3.2 - Nuvem Tóxica#SG_FEEL#QUE_NOIMAGE#
+Os cidadãos de Einbroch pedira para derrotar Nuvens Tóxicas, mas Giren não deu a mínima.#
+Não precisa derrotar Nuvem Tóxica#
+
+7226#Treino Avançado - Passo 3.3 - Nuvem Venenosa#SG_FEEL#QUE_NOIMAGE#
+Essa missão é um pedido de 100% dos cidadãos de Einbroch.#
+Derrote 30 Nuvens Venenosas#
+
+7227#Treino Avançado - Passo 3.4 - Nuvem Venenosa#SG_FEEL#QUE_NOIMAGE#
+Um cidadão pediu, mas é muito importante. Alguns Ursinhos podem causar o caos. Giren pediu para ter cuidado com esse poderoso inimigo.#
+Derrote 5 Ursinhos#
+
+7228#Reporte para Uru#SG_FEEL#QUE_NOIMAGE#
+Missão completa. Volte ao Grupo Éden.#
+Reporte para Uru#
+
+7229#Treino Avançado - Passo 4 - Caverna de Gelo#SG_FEEL#QUE_NOIMAGE#
+A missão continua na Caverna de Gelo localizada ao Norte de Rachel. Procure por Naomi na entrada da Caverna.#
+Fale com Naomi#
+
+7230#Treino Avançado - Passo 4.1 - Siromas#SG_FEEL#QUE_NOIMAGE#
+Depois de tudo, esta era uma missão que refletia os pedidos do aldeões. Vamos derrotar mais alguns Siromas que estão atrapalhando a coleta de gelo.#
+Derrote 30 Siromas#
+
+7231#Treino Avançado - Passo 4.2 - Siromas de novo#SG_FEEL#QUE_NOIMAGE#
+Você precisa derrotar Siromas novamente para Naomi. Ela planeja fazer Lama Gelada com 30 Cubos de Gelo, 1 Molho Doce e 1 Leite.#
+Derrote 30 Siromas e recolha o material para fazer Raspadinha#
+
+7232#Reporte para Uru#SG_FEEL#QUE_NOIMAGE#
+Você completou a missão. Está na hora de voltar ao Grupo Éden.#
+Reporte para Uru#
+
+7233#Treino Avançado - Passo 5 - Ash Vacuum#SG_FEEL#QUE_NOIMAGE#
+Uru pediu para que você encontre Magret no Acampamento da Expedição da Aliança em Ash Vacuum.#
+Encontre Magret#
+
+7234#Treino Avançado - Passo 5.1 - Pedido de Magret#SG_FEEL#QUE_NOIMAGE#
+Magret precisa encontrar seus colegas Miru e Mineh. Encontre Miru a oeste e Mine a leste do acampamento. Vá primeiro até Miru.#
+Encontre Miru e Mine#
+
+7235#Treino Avançado - Passo 5.1 - As Razões de Miru#SG_FEEL#QUE_NOIMAGE#
+Os gêmeos Miru e Mineh estão brigado e querem provar que estão certos ao seu modo. Miru pediu para que você derrotasse uma Nephentes.#
+Derrote uma Nephentes#
+
+7236#Treino Avançado - Passo 5.2 - As Razões de Mineh#SG_FEEL#QUE_NOIMAGE#
+Mine pediu ajuda pra derrotar Pinguiculas. Você precisará derrotar 5 delas.#
+Derrote 5 Pinguiculas#
+
+7237#Reporte para Uru#SG_FEEL#QUE_NOIMAGE#
+Magrot pediu discrição sobre o caso de Miru e Mineh. Reporte apenas o necessário para Uru.#
+Reporte para Uru#
+
+7238#Recado para Thorn (Fácil)#SG_FEEL#QUE_NOIMAGE#
+Você tem um recado para Thorn, o exímio ferreiro do Grupo Éden. Traga o que ele pediu para seu objetivo.#
+20 Minério de Ferro, 10 Ferro#
+
+7239#Recado para Thorn (Normal)#SG_FEEL#QUE_NOIMAGE#
+Um recado para Thorn, o ferreiro do Grupo Éden. Traga o que ele pediu para seu objetivo .A melhor alternativa é derrotando Minérios!#
+Traga 20 Placa de Ferro Usada#
+
+7240#A Garantia de Thorn para equipamentos#SG_FEEL#QUE_NOIMAGE#
+Como recompensa pela missão, Thorn prometeu encantar um dos seus Equipamentos do Grupo Éden. Você pode encantar a Capa II do Grupo Éden, Armadura do Grupo Éden ou Botas IV do Grupo Éden. O encantamento será aleatório.#
+#
+
+7241#Recado para Thorn#SG_FEEL#QUE_NOIMAGE#
+Thorn parece não precisar de mais nada. Visite-o amanhã.#
+#
+
+// ---------- Port Malaya Update ------------
+//------------port malaya daily quests
+7350#Vila Cautelosa#SG_FEEL#QUE_NOIMAGE#
+Primeira vez no Porto Malaya. Ainda é meio confuso, mas é melhor ver Phong, o Mumbaki, na vila como disseram. Tenho certeza de que ele vai me ajudar.#
+Fale com Phong, o Mumbaki.#
+
+7351#Melhor que Meu Botão Antigo#SG_FEEL#QUE_NOIMAGE#
+Aldeões estão tentando arrancar meus botões e puxar minhas mangas. Vamos distribuir Água-benta e Gemas Azuis a eles. Isso pode acalmá-los por um tempo.#
+Entregue os itens Sagrados a Pedro, Nardo, Pandoi, Woeon, Talah e Romel#
+
+7352#O Marinheiro Quer um Botão#SG_FEEL#QUE_NOIMAGE#
+Um dos aldeões que quer um amuleto para carregar.#
+#
+
+7353#O Velho Quer um Botão#SG_FEEL#QUE_NOIMAGE#
+Um dos aldeões que quer um amuleto para carregar.#
+#
+
+7354#O Jovem Quer um Botão#SG_FEEL#QUE_NOIMAGE#
+Um dos aldeões que quer um amuleto para carregar.#
+#
+
+7355#O Mercador Quer um Botão#SG_FEEL#QUE_NOIMAGE#
+Um dos aldeões que quer um amuleto para carregar.#
+#
+
+7356#A Garotinha Quer um Botão#SG_FEEL#QUE_NOIMAGE#
+Um dos aldeões que quer um amuleto para carregar.#
+#
+
+7357#Homem de Meia-idade Quer um Botão#SG_FEEL#QUE_NOIMAGE#
+Um dos aldeões que quer um amuleto para carregar.#
+#
+
+7358#Por Que Querem Botões#SG_FEEL#QUE_NOIMAGE#
+Não dá pra entender os aldeões aqui. Preciso perguntar a Phong, o Mumbaki, por que são obcecados por botões aqui.#
+Pedir conselhos a Phong, o Mumbaki.#
+
+7359#Entregar Item Sagrado ao Marinheiro#SG_FEEL#QUE_NOIMAGE#
+Melhor que nada.#
+#
+
+7360#Entregar Item Sagrado ao Velho#SG_FEEL#QUE_NOIMAGE#
+Melhor que nada.#
+#
+
+7361#Entregar Item Sagrado ao Jovem#SG_FEEL#QUE_NOIMAGE#
+Melhor que nada.#
+#
+
+7362#Entregar Item Sagrado ao Mercador#SG_FEEL#QUE_NOIMAGE#
+Melhor que nada.#
+#
+
+7363#Entregar Item Sagrado à Garotinha#SG_FEEL#QUE_NOIMAGE#
+Melhor que nada.#
+#
+
+7364#Entregar Item Sagrado ao Homem de Meia-idade#SG_FEEL#QUE_NOIMAGE#
+Melhor que nada.#
+#
+
+7365#Melhor que Meu Botão Antigo-2#SG_FEEL#QUE_NOIMAGE#
+Ouviu o conselho de Phong, o Mumbaki, e entregou os itens sagrados aos aldeões para levarem como amuletos. Vou perguntar a ele sobre o que devo fazer em seguida.#
+Falar sério com Mumbaki.#
+
+7366#Proteção Espiritual Tradicional e Garota Sem-vergonha-1#SG_FEEL#QUE_NOIMAGE#
+A neta de Phong, o Mumbaki, Imelda, cria Proteções Espirituais Tradicionais. Recebeu um pedido para obter materiais para fazer essas proteções. Sal das praias a noroeste, Bambu de Baryo e Cruzes de Prata de Pandoi.#
+6 Sacolas de Sal, 6 Bambus Afiados, 6 Cruzes de Prata#
+
+7367#Proteção Espiritual Tradicional e Garota Sem-vergonha-2#SG_FEEL#QUE_NOIMAGE#
+Espere a garota terminar de fazer as Proteções Espirituais. Não vai demorar muito. Talvez uma xícara de chá para matar o tempo...#
+#
+
+7368#Entregue a Proteção Espiritual-Pedro#SG_FEEL#QUE_NOIMAGE#
+Entregue a Proteção Espiritual finalizada a Pedro, o Marinheiro, no porto.#
+#
+
+7369#Entregue a Proteção Espiritual-Nardo#SG_FEEL#QUE_NOIMAGE#
+Entregue a Proteção Espiritual finalizada a Nardo, o Velho, na vila.#
+#
+
+7370#Entregue a Proteção Espiritual-Pandoi#SG_FEEL#QUE_NOIMAGE#
+Entregue a Proteção Espiritual finalizada a Pandoi, o Ferreiro Novato.#
+#
+
+7371#Entregue a Proteção Espiritual-Woeon#SG_FEEL#QUE_NOIMAGE#
+Entregue a Proteção Espiritual finalizada a Woeon, o Colecionador.#
+#
+
+7372#Entregue a Proteção Espiritual-Talah#SG_FEEL#QUE_NOIMAGE#
+Entregue a Proteção Espiritual finalizada para a gracinha da Talah.#
+#
+
+7373#Entregue a Proteção Espiritual-Romel#SG_FEEL#QUE_NOIMAGE#
+Entregue a Proteção Espiritual finalizada ao pai de Talah, Romel.#
+#
+
+7374#Amor e Proteção Espiritual para Todos#SG_FEEL#QUE_NOIMAGE#
+Imelda pede a você que entregue as Proteções Espirituais finalizadas aos aldeões amedrontados. Total de 6 aldeões.#
+#
+
+7375#Amor e Proteção Espiritual para Todos Continua#SG_FEEL#QUE_NOIMAGE#
+O efeito da Proteção Espiritual não dura tanto tempo. Vou ajudar Imelda a distribuir as Proteções Espirituais depois de um dia.#
+#
+
+7376#O Velho e o Caldeirão de Ferro Fundido-1#SG_FEEL#QUE_NOIMAGE#
+Eles dizem que há uma pequena tribo chamada Baryo Mahiwaga, fora da cidade do Porto Malaya. Recebeu um pedido para pegar Caldeirões de Ferro Fundido do monstro chamado Bakonawa e distribuir àqueles que os querem.#
+Entregue um Caldeirão de Ferro Fundido a Kiko, o Mumbaki#
+
+7377#O Velho e o Caldeirão de Ferro Fundido-2#SG_FEEL#QUE_NOIMAGE#
+Entregou um Caldeirão de Ferro Fundido a Kiko, o Mumbaki, em Baryo Mahiwaga, e recebeu uma Proteção Espiritual como recompensa. Vamos relatar isso a Nardo para tornar a entrega oficial.#
+Entregar Proteção Espiritual a Nardo#
+
+7378#O Velho e o Caldeirão de Ferro Fundido-Comércio Comum#SG_FEEL#QUE_NOIMAGE#
+O Caldeirão de Ferro Fundido é um item que é constantemente golpeado, e acaba sempre se quebrando. É por isso que caldeirões são procurados com frequência. Encontre-se com Nardo depois de um dia. Ele lhe dará a data de entrega do Caldeirão de Ferro Fundido.#
+#
+
+7379#Pastor da Paz#SG_FEEL#QUE_NOIMAGE#
+Entregou as Proteções Espirituais aos 6 aldeões de acordo com as instruções de Imelda. Parece que acabei de ajudar a trazer a paz e a estabilidade para essa vila. Vamos compartilhar este sucesso com Imelda.#
+#
+
+7380#Forjar uma Proteção Espiritual Tradicional#SG_FEEL#QUE_NOIMAGE#
+Prometi reunir materiais para criar Proteções Espirituais. Sal pode ser recolhido das praias a noroeste, Bambu de Baryo e Cruzes de Prata de Pandoi.#
+6 Sacolas de Sal, 6 Bambus Afiados, 6 Cruzes de Prata#
+
+7381#Procura Elevada de Materiais de Proteção Espiritual#SG_FEEL#QUE_NOIMAGE#
+Proteções Espirituais são sempre uma necessidade, então, os materiais estão sempre esgotados. Visite Imelda depois de um dia. Com certeza, ela pedirá mais materiais.#
+#
+
+7382#Entregar para Pedro#SG_FEEL#QUE_NOIMAGE#
+Proteção Espiritual entregue a Pedro!#
+#
+
+7383#Entregar para Nardo#SG_FEEL#QUE_NOIMAGE#
+Proteção Espiritual entregue a Nardo!#
+#
+
+7384#Entregar para Pandoi#SG_FEEL#QUE_NOIMAGE#
+Proteção Espiritual entregue a Pandoi!#
+#
+
+7385#Entregar a Woeon#SG_FEEL#QUE_NOIMAGE#
+Proteção Espiritual entregue a Woeon!#
+#
+
+7386#Entregar a Talah#SG_FEEL#QUE_NOIMAGE#
+Proteção Espiritual entregue a Talah!#
+#
+
+7387#Entregar a Romel#SG_FEEL#QUE_NOIMAGE#
+Proteção Espiritual entregue a Romel!#
+#
+
+7388#Filha de Marie#SG_FEEL#QUE_NOIMAGE#
+Vamos encontrar a ^4d4dffCamiseta do Avesso^000000  da filha de Marie que a perdeu na floresta. Esta camiseta deve ter sido pega por um animal ou um monstro.#
+#
+
+7389#Entregar a Camiseta à Filha de Marie#SG_FEEL#QUE_NOIMAGE#
+Entreguei a Camiseta à Filha de Marie. A menina vai vestir a camiseta e poderá ir para casa em segurança. Preciso que Marie saiba que tudo está bem agora.#
+#
+
+7390#Preocupado com a Filha de Marie#SG_FEEL#QUE_NOIMAGE#
+Pela história da menina, parece que existe um espírito malicioso que engana as pessoas e as faz se perder. Isso significa que a criança pode se perder novamente. Se estiver preocupado, visite-as novamente.#
+#
+
+7391#Jejeling e Jejellopy#SG_FEEL#QUE_NOIMAGE#
+O colecionador Woeon coleta Jejellopys e pediu para que você o ajude a recolhê-los. Cace Jejelings nas proximidades e colecione os Jejellopys que eles derrubam. Entregar 30 Jejellopys a Woeon.#
+Entregar 30 Jejellopys a Woeon#
+
+7392#Colecione Jejellopys Regularmente#SG_FEEL#QUE_NOIMAGE#
+Jejellopys são produzidos para serem usados em vários produtos. Woeon precisará de quantos Jejellopys conseguir. Vamos visitá-lo, quando tiver tempo livre.#
+#
+
+7393#Lâmina de Prata Brilhante#SG_FEEL#QUE_NOIMAGE#
+O sonho do Ferreiro Aprendiz, Pandoi, é fazer uma Lâmina de Prata. Colete 10 Braceletes de Prata de monstros no hospital.#
+10 Braceletes de Prata, e derrote Manananggal e Tiyanak#
+
+7394#Amanhã Brilhante#SG_FEEL#QUE_NOIMAGE#
+Volte para Pandoi depois de um dia. Se ele falhou ao criar uma Lâmina de Prata, precisará de sua ajuda para obter mais Braceletes de Prata.#
+#
+
+7395#Fantasma no Barco da Travessia#SG_FEEL#QUE_NOIMAGE#
+Decidiu ver por conta própria se a história de Pedro sobre o Barco da Travessia assombrado é verdade. Os fantasmas por aqui parecem ter medo de mim, então, é melhor não ter medo de embarcar.#
+Investigue o Barco da Travessia.#
+
+
+7396#Alma Nervosa no Barco da Travessia#SG_FEEL#QUE_NOIMAGE#
+Foi maltratado no Barco da Travessia pelo espírito de uma garota nervosa. Vamos buscar uma solução.#
+Fale com Pedro, o Marinheiro.#
+
+7397#Conselho de Phong, o Mumbaki#SG_FEEL#QUE_NOIMAGE#
+Phong, o Mumbaki, disse para não evitar o espírito, mas para abraçá-lo e acalmá-lo. Vamos procurar flores para oferecer. Você pode obter flores dos animais e monstros próximos.#
+3 Flores Elegantes, 3 Flores Misteriosas, 3 Flores Bonitas#
+
+7398#Buquê de Oferenda Recomendado por Mumbaki#SG_FEEL#QUE_NOIMAGE#
+Phong, o Mumbaki, abençoou as flores que você trouxe e fez com elas um Buquê de Oferenda. Vamos levar este buquê ao Fantasma Diwata no Barco da Travessia.#
+Oferecer o Buquê a Diwata.#
+
+7399#História do Fantasma Diwata#SG_FEEL#QUE_NOIMAGE#
+Diwata disse ser maltratada por fantasmas nativos por ser de fora da vila. O Barco da Travessia está preso por causa da alma poderosa de Diwata.#
+Compartilhar essa informação com Pedro.#
+
+7400#Mumbaki do Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+7401#Todos a Bordo do Barco da Travessia#SG_FEEL#QUE_NOIMAGE#
+Parece que o Barco da Travessia vai funcionar normalmente por enquanto. Mas vamos verificá-lo novamente amanhã. Ainda há chances de fantasmas nativos estarem maltratando Diwata.#
+#
+
+7402#Buquê para Diwata#SG_FEEL#QUE_NOIMAGE#
+Decidi criar um buquê para acalmar Diwata, que estava sendo maltratada por fantasmas nativos. Junte flores para serem abençoadas por Phong, o Mumbaki.#
+3 Flores Elegantes, 3 Flores Misteriosas, 3 Flores Bonitas#
+
+7403#Travessia Normalizada#SG_FEEL#QUE_NOIMAGE#
+Diwata se acalmou depois de receber o buquê. O Barco da Travessia pode navegar novamente. Vamos informar Pedro.#
+#
+
+7404#Livre-se dos Jejelings#SG_FEEL#QUE_NOIMAGE#
+Decidi ajudar alguns vendedores ambulantes de Baryo a eliminar Jejelings. Tente eliminar 20 Jejelings hoje.#
+20 Jejelings#
+
+7405#Livre-se dos Jejelings - Mesma Hora Amanhã#SG_FEEL#QUE_NOIMAGE#
+Livrar-se dos Jejelings é um projeto em andamento que precisa de muita ajuda. Para participar, encontre o Guarda depois de um dia.#
+#
+
+7406#Concordou em Recolher Ossos!#SG_FEEL#QUE_NOIMAGE#
+Recolha ossos para o cão de guarda, Vantai. Os ossos coletados devem ser purificados. Leve os Ossos de Espírito Maligno recolhidos para que Kiko, o Mumbaki, os purifique.#
+10 Ossos de Espírito Maligno, 10 Águas-bentas#
+
+7407#Osso Purificado#SG_FEEL#QUE_NOIMAGE#
+Recebeu Ossos Purificados de Espírito depois do ritual de Kiko, o Mumbaki. Vamos levá-los a Dhong.#
+Entregar 10 Ossos Purificados de Espírito a Dhong10.#
+
+7408#Concorda em Voltar Amanhã?#SG_FEEL#QUE_NOIMAGE#
+Dhong, o Guarda de Baryo Mahiwaga, quer mais ossos para dar a Vantai amanhã. Vamos visitá-lo novamente daqui a um dia.#
+#
+
+7409#Olho por Olho!#SG_FEEL#QUE_NOIMAGE#
+Budidai, o Bom Capre, não aguenta ver seus amigos sendo maltratados por Bungisngis. Os Bungisngis são poderosos demais para Budidai aguentar, e agora ele pede sua ajuda para se livrar do monstro caolho.#
+Elimine 10 Bungisngis#
+
+7410#Ensine Outra Lição Amanhã!#SG_FEEL#QUE_NOIMAGE#
+Capre Budidai disse que Bungisngis não vão embora apenas com isso e pede que você continue a eliminá-los. Volte depois de um dia.#
+#
+
+//----------bakonawa entry quest
+1174#Rumor, Tempo e Lenda#SG_FEEL#QUE_NOIMAGE#
+Traga a Tábula Geffen à neta do Velho Contador de Lendas.#
+Fale com a Neta do Velho ao norte do porto de Malaya.#
+
+1175#Rumor, Tempo e Lenda#SG_FEEL#QUE_NOIMAGE#
+Entregue a Tábula Geffen ao Velho Contador de Lendas.#
+Fale com o Velho Contador de Lendas em Malaya.#
+
+1176#Rumor, Tempo e Lenda#SG_FEEL#QUE_NOIMAGE#
+Encontre o Colono Malaya a noroeste da floresta e localize o Mercador Viajante.#
+Fale com o Colono Malaya a noroeste da floresta.#
+
+1177#Rumor, Tempo e Lenda#SG_FEEL#QUE_NOIMAGE#
+Encontre o Colono Malaya na vila Baryo Mahiwaga e localize o Mercador Viajante.#
+Fale com o Colono Malaya na vila Baryo Mahiwaga.#
+
+1178#Rumor, Tempo e Lenda#SG_FEEL#QUE_NOIMAGE#
+Investigue os registros gravados na rocha da vila Baryo Mahiwaga.#
+Investigue a rocha na vila Baryo Mahiwaga.#
+
+1179#Rumor, Tempo e Lenda#SG_FEEL#QUE_NOIMAGE#
+A lenda se desvenda e a identidade do filho da velha é revelada. Volte a Malaya e conte ao Velho Contador de Lendas.#
+Fale com o Velho Contador de Lendas em Malaya.#
+
+1180#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
+Encontre 2 Pertences Perdidos de Tiyanak rondando no campo de Baryo Mahiwaga e entregue-os ao Pai da Pessoa Desaparecida.#
+Fale com o Pai da Pessoa Desaparecida em Malaya.#
+
+1181#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
+Encontre 7 Pertences Perdidos de Tiyanak rondando no campo de Baryo Mahiwaga e entregue-os ao Amigo da Pessoa Desaparecida.#
+Fale com o Amigo da Pessoa Desaparecida em Malaya.#
+
+1182#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
+Encontre 3 Pertences Perdidos de Tiyanak rondando no campo de Baryo Mahiwaga e entregue-os ao Filho da Pessoa Desaparecida.#
+Fale com o Filho da Pessoa Desaparecida em Malaya.#
+
+1183#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
+Encontre 5 Pertences Perdidos de Tiyanak rondando no campo de Baryo Mahiwaga e entregue-os à Mãe da Pessoa Desaparecida.#
+Fale com a Mãe da Pessoa Desaparecida em Malaya.#
+
+1184#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
+Conseguiu encontrar a Pessoa Desaparecida. Relate ao Chefe.#
+Fale com o Chefe em Malaya.#
+
+1185#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
+A Jovem Cartomante pede ajuda. Vamos lá.#
+Fale com a Jovem Cartomante em Malaya.#
+
+1186#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
+Elimine 15 Tikbalangs no campo de Baryo Mahiwaga.#
+Fale com a Jovem Cartomante em Malaya.#
+
+1187#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
+Relate o pedido da Jovem Cartomante ao Chefe.#
+Fale com o Chefe em Malaya.#
+
+1188#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
+Vá encontrar o Trabalhador Hostil no campo de Baryo Mahiwaga perto da entrada do Porto Malaya para instalarem uma armadilha juntos.#
+Investigue perto do Trabalhador Hostil no campo de Baryo Mahiwaga.#
+
+1189#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
+Vá encontrar o Trabalhador Queixoso no campo de Baryo Mahiwaga perto da entrada do Lago Bakonawa para instalarem uma armadilha juntos.#
+Investigue perto do Trabalhador Queixoso no campo de Baryo Mahiwaga.#
+
+1190#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
+Vá encontrar o Trabalhador Covarde no campo de Baryo Mahiwaga perto da entrada do Lago Bakonawa para instalarem uma armadilha juntos.#
+Investigue perto do Trabalhador Covarde no Lago Bakonawa.#
+
+1191#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
+Vá encontrar o Trabalhador Melancólico perto do Lago Bakonawa para instalarem uma armadilha juntos.#
+Investigue perto do Trabalhador Melancólico em Malaya.#
+
+1192#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
+Vá encontrar o Trabalhador Maravilhado perto do Lago Bakonawa para instalarem uma armadilha juntos.#
+Investigue perto do Trabalhador Maravilhado em Malaya.#
+
+1193#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
+Monte a  armadilha. Relate ao Chefe.#
+Fale com o Chefe em Malaya.#
+
+
+//-- port malaya
+12278#Rumo ao Lago Bakonawa#SG_FEEL#QUE_NOIMAGE#
+Entrou no lago para impedir Bakonawa. Não acho que preciso voltar ao lago essa semana.#
+#
+
+12279#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
+Uma luta terrível acontecerá se Bakonawa for deixado como está. Ele precisa ser eliminado.#
+#
+
+
+// PH local, hospital 2nd floor- port malaya
+9222#Livre-se de Bangungot do 2º Andar do Hospital#SG_FEEL#QUE_NOIMAGE#
+Encontre e mate ^0000FFBangungot^000000 e depois volte para a enfermeira.#
+#
+
+9223#Haverá Paz no Hospital?#SG_FEEL#QUE_NOIMAGE#
+Haverá paz no hospital depois que ^0000FFBangungot^000000 for derrotado? Vamos encontrar a enfermeira depois.#
+#
+
+9224#Explore o 2º Andar do Hospital#SG_FEEL#QUE_NOIMAGE#
+Investigue o ^0000FF2º Andar do Hospital^000000 que está infestado de energia sombria.#
+#
+
+//-- port malaya
+11284#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Parece sujo, mas as Bandagem Estragada estão ensopadas em um líquido especial e possuem poderes mágicos. Só são necessárias 2 dessas bandagens para cobrir os dois pés.#
+Entregue 2 Bandagem Estragada e fale novamente.#
+
+11285#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Não sei se a porta está fechada ou se está emperrada já que não dá para abrir sozinha, então, vamos fazer isso juntos!#
+Abrir a porta com Las.#
+
+11286#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Empurrou a porta com toda sua força, mas ela não se moveu.#
+Fale com Las.#
+
+11287#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Entrarei em contato com a sede novamente. Você não quer perguntar aos aldeões sobre o hospital?#
+Fale com a garota da vila na direita.#
+
+11288#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Eu realmente não sei. O hospital esteve fechado por tanto tempo. É estranha a vinda de uma nova enfermeira.#
+A garota da vila parece não saber muito. Volte a Las.#
+
+11289#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+A sede não me enviaria a um lugar assim se não tivesse certeza. Por que não tenta falar com outro aldeão?#
+Fale com o homem da vila ao sul do hospital.#
+
+11290#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Terei que relatar essa informação rapidamente. Desculpe, mas você iria para estalagem no meio da vila com a enfermeira?#
+Volte para Las por enquanto.#
+
+11291#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Meus pés doem e não consigo mais me mover. Você pode ir à estalagem sozinho?#
+Encontre o doutor na estalagem no centro da vila.#
+
+11292#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Eu não posso ir ao hospital agora porque tenho pacientes para cuidar. Volte ao hospital com a chave e diga a ela "Faça o que quiser".#
+Volte a Las.#
+
+11293#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Você coloca a chave na fechadura da Porta do Hospital. Mas a porta não parece estar trancada.#
+Fale com Las.#
+
+11294#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Parece que a voz está vindo do gramado perto da Entrada do Hospital.#
+Investigar os arredores.#
+
+11295#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Não pensei muito a fundo sobre isso, mas me lembro de ver um graveto quando fui lá, há muito tempo, logo depois da morte de minha avó.#
+Investigue os arredores do hospital.#
+
+11296#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Puxou o graveto enfiado profundamente. A atmosfera melancólica do hospital parece ter dobrado.#
+Melhor levar este amuleto a Las.#
+
+11297#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Você poderia visitar minha avó? Vou dar a volta para verificar essa parte do hospital.#
+Visite sua avó a oeste da vila.#
+
+11298#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Eu esperava que algo assim fosse acontecer quando eles cortaram a árvore antiga na vila para construir o hospital.#
+Continue falando com a avó.#
+
+11299#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+A Enfermeira Las pode estar em perigo sozinha na frente do hospital.#
+Voltar ao hospital.#
+
+11300#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Vamos juntos, já que a porta do 1º andar está aberta.#
+Fale com Las dentro do hospital.#
+
+11301#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Eu já olhei por aqui, mas posso ter deixado passar algum detalhe. Você poderia dar uma olhada na entrada para o 2º andar?#
+Investigar a entrada do 2º andar.#
+
+11302#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Encontrou um amuleto. Vamos procurar mais. Engraçado encontrar algo assim em um lugar como este, não é?#
+Está perto.#
+
+11303#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Como a enfermeira passou com a entrada trancada?#
+Volte a Las.#
+
+11304#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Será que a avó que colou o amuleto fora do hospital não sabe sobre este amuleto?#
+Fale com a avó.#
+
+11305#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Pediu que o Xamã ao norte da vila criasse isso.#
+Visite o Xamã ao norte da vila.#
+
+11306#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Sinto algo muito macabro vindo de você.#
+Recebeu um amuleto. Volte a Las.#
+
+11307#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Vamos colar esse amuleto naquele que vimos na entrada do 2º andar. Pode ajudar a bloquear a energia sinistra daquele.#
+Colar o amuleto sobre o outro da entrada do 2º andar.#
+
+11308#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Assim que você colou o amuleto sobre o outro, a energia sinistra se esvaneceu, como Las disse que aconteceria.#
+Parece que Las estava brincando com você. Fale com a enfermeira na frente do hospital.#
+
+11309#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
+Você não só interrompeu meu trabalho, como também a trouxe para a sala, o que o torna responsável. Não pense em fugir.#
+Livre-se do Bangungot e volte.#
+
+
+//-  port malaya
+2271#Segredos na Floresta#SG_FEEL#QUE_NOIMAGE#
+Um Guarda do Porto Malaya disse que os aldeões estão falando de um tesouro.#
+Fale com os aldeões reunidos no Porto Malaya.#
+
+2272#Segredos na Floresta#SG_FEEL#QUE_NOIMAGE#
+Segundo a declaração de um aldeão, Totoy, da estalagem, pode saber onde está o tesouro.#
+Fale com Totoy.#
+
+2273#Segredos na Floresta#SG_FEEL#QUE_NOIMAGE#
+O Mestre de Caça na Loja de Artesanato pode saber sobre o monstro.#
+Fale com o Mestre de Caça.#
+
+2274#Segredos na Floresta#SG_FEEL#QUE_NOIMAGE#
+O Mestre de Caça pediu para você coletar 10 Amostras de Animal do lugar onde Totoy viu um monstro.#
+Pegue 10 Amostras de Animal.#
+
+2275#Segredos na Floresta#SG_FEEL#QUE_NOIMAGE#
+Estude as amostras coletadas com muita dificuldade com o Mestre de Caça.#
+#
+
+2276#Segredos na Floresta#SG_FEEL#QUE_NOIMAGE#
+Totoy viu o terrível Buwaya. Relate isso ao Guarda!#
+Fale com o Líder da Guarda.#
+
+2277#Segredos na Floresta#SG_FEEL#QUE_NOIMAGE#
+O Guarda pede para atirar uma bomba de fumaça onde Buwaya apareceu pela segurança dos aldeões.#
+Encontre o lugar onde Buwaya apareceu e atire uma bomba de fumaça.#
+
+2278#Segredos na Floresta#SG_FEEL#QUE_NOIMAGE#
+Missão cumprida! Melhor devolver Ed a Totoy primeiro.#
+Fale com Totoy.#
+
+2279#Segredos na Floresta#SG_FEEL#QUE_NOIMAGE#
+Totoy agradeceu e o deixou sozinho um instante para pegar sua recompensa.#
+Fale com Totoy.#
+
+2280#Segredos na Floresta#SG_FEEL#QUE_NOIMAGE#
+Acabou seu serviço com Totoy. Agora vamos falar com o Líder da Guarda sobre Buwaya.#
+Fale com o Líder da Guarda.#
+
+2281#Livre-se de Buwaya#SG_FEEL#QUE_NOIMAGE#
+Derrote Buwaya na Caverna de Buwaya e depois volte ao Líder da Guarda.#
+Livre-se de Buwaya#
+
+//--  port malaya
+4229#Demônio na Caverna#SG_FEEL#QUE_NOIMAGE#
+As pessoas dizem que o monstro não está aparecendo no momento. Melhor voltar amanhã.#
+Buwaya se esconde#
+
+//------- halloween 2013
+11378#Doce ou Travessura#SG_FEEL#QUE_NOIMAGE#
+Colete 30 abóboras orgânicas ou inorgânicas, e entregue para o Chef Doceiro#
+Entrega de Abóboras#
+
+//-- Quest diária
+
+15065#Ticket de Rune-Midgard#SG_FEEL#QUE_NOIMAGE#
+Você só pode comprar 1 Ticket a cada 20 horas.#
+Você não pode comprar outro. Aguarde o período de 20 horas e volte ao Carteiro para adquirir mais tickets.#
+
+
+//-----------------------------------------------------------------------------------------------------------------------
+//Carnaval 2014
+//-----------------------------------------------------------------------------------------------------------------------
+7347#
+Delicioso Polvo Assado#SG_FEEL#QUE_NOIMAGE#
+Você já tem muitos Tentáculos de Polvo Assados. Por que não deixar para os outros?#
+Tente pegar novamente mais tarde!
+#
+7630#
+Lendário Cavalo Azul Furioso#SG_FEEL#QUE_NOIMAGE#
+Há um rumor que um Cavalo Azul Furioso está nas redondezas de Payon. Qualquer um que quiser ajudar a capturá-lo será recompensado.#
+Cace o Cavalo Azul Furioso e reporte para Fury
+#
+7631#
+Limite de Caça#SG_FEEL#QUE_NOIMAGE#
+A missão de caça estará disponível em instantes! Mas tente não caçar demais para um dia.#
+#
+//-----------------------------------------------------------------------------------------------------------------------
+//Kagerou-Oboro
+
+5131#Conversa Estranha#SG_FEEL#QUE_NOIMAGE#
+Que conversa estranha. Parte do teste? Que história é essa?#
+Lugar escondido? Uma parede? Não é melhor conferir ^0000FFas paredes^000000 da sala de mudança de classe para Ninja?#
+
+5132#Negócios de Família 1#SG_FEEL#QUE_NOIMAGE#
+Ouça a história da família do Kage Gion.#
+#
+
+5133#Negócios de Família 2#SG_FEEL#QUE_NOIMAGE#
+Continue ouvindo a história da família do Kage Gion.#
+#
+
+5134#Novo caminho#SG_FEEL#QUE_NOIMAGE#
+Pronto para descobrir o novo caminho? Então, vá!#
+Encontre o Guia Gion.#
+
+5135#Quatro Testes#SG_FEEL#QUE_NOIMAGE#
+Para descobrir o novo caminho, você deve passar pelos Testes de Conhecimento, Sobrevivência, Armamento e Batalha.#
+Vamos passar por eles, então.#
+
+5136#Teste de Conhecimento#SG_FEEL#QUE_NOIMAGE#
+Agora, você vai enfrentar o Teste de Conhecimento.#
+Você precisa acertar 9 das 10 perguntas para passar no teste.#
+
+5137#Teste de Sobrevivência#SG_FEEL#QUE_NOIMAGE#
+Agora, você vai enfrentar o Teste de Sobrevivência.#
+Você precisa chegar ao final sem perder todos os seus Pontos de Vida para passar no teste.#
+
+5138#Teste de Armamento#SG_FEEL#QUE_NOIMAGE#
+Agora, você vai enfrentar o Teste de Armamento.#
+Você precisa criar uma arma com a qual fique satisfeito para passar no teste.#
+
+5139#Esse cara parece familiar!#SG_FEEL#QUE_NOIMAGE#
+Você encontrou Cougar no Teste de Conhecimento.#
+Vamos acertar as questões dele.#
+
+5140#Calafrio Estranho#SG_FEEL#QUE_NOIMAGE#
+Você chegou ao local do Teste de Sobrevivência e sentiu um calafrio repentino.#
+Vamos logo com isso.#
+
+5141#Uma Maldição!#SG_FEEL#QUE_NOIMAGE#
+A sensação ruim se confirmou, você sofreu uma maldição!#
+A maldição vai durar 2 minutos.#
+
+5142#Protótipo 1#SG_FEEL#QUE_NOIMAGE#
+Faça o protótipo combinando Minério de Ferro, Ferro, Aço, Fracon, Emveretarcon, Minério de Oridecon ou Minério de Elunium.#
+Você pode fabricar a arma com as Ferramentas de Criação.#
+
+5143#Protótipo 2#SG_FEEL#QUE_NOIMAGE#
+Você criou o protótipo de adaga.#
+Leve o item ao Red Leopard Joe.#
+
+5144#Protótipo 2#SG_FEEL#QUE_NOIMAGE#
+Você criou um protótipo de Shuriken Huuma.#
+Leve o item ao Red Leopard Joe.#
+
+5145#Protótipo 3#SG_FEEL#QUE_NOIMAGE#
+Agora, é preciso refinar o protótipo.#
+Leve o item refinado ao Red Leopard Joe.#
+
+5146#Teste de Batalha#SG_FEEL#QUE_NOIMAGE#
+Agora, você vai enfrentar o Teste de Batalha.#
+Mate o alvo 'Segredo de Família'!#
+
+//-------201403-Nightmare Pyramid----------
+2289#Gato Suspeito: Cães Inimigos#SG_FEEL#QUE_NOIMAGE#
+Você recebeu um pedido do Gato Suspeito para derrotar 20 Verits deste andar#
+#
+2290#Gato Suspeito: Cães Inimigos#SG_FEEL#QUE_NOIMAGE#
+Você pode pegar este pedido mais tarde#
+#
+2291#Gato Suspeito: Múmias Entediadas#SG_FEEL#QUE_NOIMAGE#
+Você pode pegar este pedido mais tarde#
+#
+2292#Gato Suspeito: Múmias Entediadas#SG_FEEL#QUE_NOIMAGE#
+Você recebeu um pedido do Gato Suspeito para derrotar 20 Múmias Anciãs no próximo andar# 
+#
+
+//---------Paradise Tutorial Quest-----------------
+
+9167#Tutorial - Contratando Assistentes#SG_FEEL#QUE_NOIMAGE#
+Encontre o Gerente do Clã de Assistentes, contrate um Assistente  e fale com o Intrutor enquanto o Assistente estiver ativo.#
+#
+
+9168#Verificando a Lista de Quests#SG_FEEL#QUE_NOIMAGE#
+O material que você precisa informar ao Instrutor é 'Jellopy'.#
+#
+
+9169#O Catálogo de Prata#SG_FEEL#QUE_NOIMAGE#
+Encontre o ^0000ffCatalogador Mágico^000000 na sede do Grupo Éden e compre um ^006400'Catálogo de Prata'^000000#
+#
+
+9170#O Catálogo de Prata#SG_FEEL#QUE_NOIMAGE#
+Utilize o 'Catálogo de Prata', depois volte para o Instrutor para sua próxima lição.#
+#
+
+9171#Encantando Itens#SG_FEEL#QUE_NOIMAGE#
+Agora vamos aprender sobre o encantamento de itens. Lembre-se de levar 10 'Jellopy' e garantir que seu inventário possui espaço disponível, depois fale com o Instrutor para aprender sobre os Encantamentos.#
+#
+
+9172#Itens Encantados#SG_FEEL#QUE_NOIMAGE#
+Examine os Mantos que recebeu e note a diferença entre o Manto encantado e o Manto normal, depois os devolva para o Instrutor.#
+#
+
+9173#Contador - Tutorial#SG_FEEL#QUE_NOIMAGE#
+Você tem que esperar 20 horas para poder refazer o Tutorial com os Instrutores novamente.#
+#
+
+4161#Mestre de Batalha#SG_FEEL#QUE_NOIMAGE#
+Fale com o Mestre de Batalha na sede do Grupo Éden, no segundo andar e passe pelo teste.#
+#
+
+4162#Mestre de Grupo#SG_FEEL#QUE_NOIMAGE#
+Fale com o Mestre de Grupo no segundo andar da sede do Grupo Éden e passe pelo teste.#
+#
+
+4163#Mestre de Guerra#SG_FEEL#QUE_NOIMAGE#
+Fale com o Mestre de Guerra na sede do Grupo Éden, no segundo andar e passe pelo teste.#
+#
+
+4164#Mestre de Instâncias#SG_FEEL#QUE_NOIMAGE#
+Fale com o Mestre de Instâncias na sede do Grupo Éden, no segundo andar e passe pelo teste.#
+#
+
+4165#Mestre de Mapeamento#SG_FEEL#QUE_NOIMAGE#
+Fale com o Mestre de Mapeamento na sede do Grupo Éden, no segundo andar e passe pelo teste.#
+#
+
+4166#Notas de Corte#SG_FEEL#QUE_NOIMAGE#
+Parabéns por passar pelo teste de todos os Mestres! Agora, fale com o  ^006400Objetivo do Tutorial^000000!#
+#
+
+6025#KvM - Guillaume#SG_FEEL#QUE_NOIMAGE#
+Você é fiel a Guillaume no KvM.#
+#

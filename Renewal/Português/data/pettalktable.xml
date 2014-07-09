@@ -5866,5 +5866,106 @@ snarf*</feeding>
 				<perfor_s>Nada é mais quente do que estes movimentos!</perfor_s>			
 			</so_full>			
 </IMP>
-					
+<LOLI_RURI>
+	<hungry>
+		<feeding>	Essa lua me parece saborosa...	</feeding>
+		<feeding>	Minha barriguinha dóooooi!	</feeding>
+		<hunting>	Porque esta torturando esse coitatinho?	</hunting>
+		<hunting>	Porque não arranja mais amigos como eu?	</hunting>
+		<danger>	Em Niffheim você talvez não estaria sangrando.	</danger>
+		<danger>	Acho melhor correr...	</danger>
+		<dead>		Nao acredito que você morreu pra... isso.	</dead>
+		<dead>		Fraco!	</dead>
+		<stand>		Você me trouxe roupas quentinhas?	</stand>
+		<stand>		Olha! Este é o meu novo amiguinho. Chamei ele de Drácula.	</stand>
+		<connect>	Que tal um almoco ao luar?	</connect>
+		<connect>	Quer um doce da lua?	</connect>
+		<levelup>	Parabéns... parabéns...	</levelup>
+		<levelup>	Agora faz um muque pra eu ver...	</levelup>
+		<perfor_1>	Está anoitecendo... ah! desculpe, me enganei.	</perfor_1>
+		<perfor_2>	Uaaa, que sono!	</perfor_2>
+		<perfor_3>	Lalarilalaaaa!	</perfor_3>
+		<perfor_s>	Ja ouvi falarem sobre estrelas cadente, agora lua cadente ja e demais!	</perfor_s>
+	</hungry>
+	<bit_hungry>
+		<feeding>	Essa lua me parece saborosa...	</feeding>
+		<feeding>	Minha barriguinha dóooooi!	</feeding>
+		<hunting>	Porque esta torturando esse coitatinho?	</hunting>
+		<hunting>	Porque não arranja mais amigos como eu?	</hunting>
+		<danger>	Em Niffheim você talvez não estaria sangrando.	</danger>
+		<danger>	Acho melhor correr...	</danger>
+		<dead>		Nao acredito que você morreu pra... isso.	</dead>
+		<dead>		Fraco!	</dead>
+		<stand>		Você me trouxe roupas quentinhas?	</stand>
+		<stand>		Olha! Este é o meu novo amiguinho. Chamei ele de Drácula.	</stand>
+		<connect>	Que tal um almoco ao luar?	</connect>
+		<connect>	Quer um doce da lua?	</connect>
+		<levelup>	Parabéns... parabéns...	</levelup>
+		<levelup>	Agora faz um muque pra eu ver...	</levelup>
+		<perfor_1>	Está anoitecendo... ah! desculpe, me enganei.	</perfor_1>
+		<perfor_2>	Uaaa, que sono!	</perfor_2>
+		<perfor_3>	Lalarilalaaaa!	</perfor_3>
+		<perfor_s>	Ja ouvi falarem sobre estrelas cadente, agora lua cadente ja e demais!	</perfor_s>
+	</bit_hungry>
+	<noting>
+		<feeding>	Essa lua me parece saborosa...	</feeding>
+		<feeding>	Minha barriguinha dóooooi!	</feeding>
+		<hunting>	Porque esta torturando esse coitatinho?	</hunting>
+		<hunting>	Porque não arranja mais amigos como eu?	</hunting>
+		<danger>	Em Niffheim você talvez não estaria sangrando.	</danger>
+		<danger>	Acho melhor correr...	</danger>
+		<dead>		Nao acredito que você morreu pra... isso.	</dead>
+		<dead>		Fraco!	</dead>
+		<stand>		Você me trouxe roupas quentinhas?	</stand>
+		<stand>		Olha! Este é o meu novo amiguinho. Chamei ele de Drácula.	</stand>
+		<connect>	Que tal um almoco ao luar?	</connect>
+		<connect>	Quer um doce da lua?	</connect>
+		<levelup>	Parabéns... parabéns...	</levelup>
+		<levelup>	Agora faz um muque pra eu ver...	</levelup>
+		<perfor_1>	Está anoitecendo... ah! desculpe, me enganei.	</perfor_1>
+		<perfor_2>	Uaaa, que sono!	</perfor_2>
+		<perfor_3>	Lalarilalaaaa!	</perfor_3>
+		<perfor_s>	Ja ouvi falarem sobre estrelas cadente, agora lua cadente ja e demais!	</perfor_s>
+	</noting>
+	<full>
+		<feeding>	Essa lua me parece saborosa...	</feeding>
+		<feeding>	Minha barriguinha dóooooi!	</feeding>
+		<hunting>	Porque esta torturando esse coitatinho?	</hunting>
+		<hunting>	Porque não arranja mais amigos como eu?	</hunting>
+		<danger>	Em Niffheim você talvez não estaria sangrando.	</danger>
+		<danger>	Acho melhor correr...	</danger>
+		<dead>		Nao acredito que você morreu pra... isso.	</dead>
+		<dead>		Fraco!	</dead>
+		<stand>		Você me trouxe roupas quentinhas?	</stand>
+		<stand>		Olha! Este é o meu novo amiguinho. Chamei ele de Drácula.	</stand>
+		<connect>	Que tal um almoco ao luar?	</connect>
+		<connect>	Quer um doce da lua?	</connect>
+		<levelup>	Parabéns... parabéns...	</levelup>
+		<levelup>	Agora faz um muque pra eu ver...	</levelup>
+		<perfor_1>	Está anoitecendo... ah! desculpe, me enganei.	</perfor_1>
+		<perfor_2>	Uaaa, que sono!	</perfor_2>
+		<perfor_3>	Lalarilalaaaa!	</perfor_3>
+		<perfor_s>	Ja ouvi falarem sobre estrelas cadente, agora lua cadente ja e demais!	</perfor_s>
+	</full>
+	<so_full>
+		<feeding>	Essa lua me parece saborosa...	</feeding>
+		<feeding>	Minha barriguinha dóooooi!	</feeding>
+		<hunting>	Porque esta torturando esse coitatinho?	</hunting>
+		<hunting>	Porque não arranja mais amigos como eu?	</hunting>
+		<danger>	Em Niffheim você talvez não estaria sangrando.	</danger>
+		<danger>	Acho melhor correr...	</danger>
+		<dead>		Nao acredito que você morreu pra... isso.	</dead>
+		<dead>		Fraco!	</dead>
+		<stand>		Você me trouxe roupas quentinhas?	</stand>
+		<stand>		Olha! Este é o meu novo amiguinho. Chamei ele de Drácula.	</stand>
+		<connect>	Que tal um almoco ao luar?	</connect>
+		<connect>	Quer um doce da lua?	</connect>
+		<levelup>	Parabéns... parabéns...	</levelup>
+		<levelup>	Agora faz um muque pra eu ver...	</levelup>
+		<perfor_1>	Está anoitecendo... ah! desculpe, me enganei.	</perfor_1>
+		<perfor_2>	Uaaa, que sono!	</perfor_2>
+		<perfor_3>	Lalarilalaaaa!	</perfor_3>
+		<perfor_s>	Ja ouvi falarem sobre estrelas cadente, agora lua cadente ja e demais!	</perfor_s>
+	</so_full>
+</LOLI_RURI>
 </monster_talk_table>

@@ -1,3 +1,5 @@
+moc_prydn1.rsw#Base da Pirâmide 01 - Pesadelo#
+moc_prydn2.rsw#Base da Pirâmide 02 - Pesadelo#
 gld_dun04.rsw#Calabouço do Feudo de Britoniah#
 gld_dun03.rsw#Calabouço do Feudo das Valquírias#
 gld_dun02.rsw#Calabouço do Feudo de Luina#
@@ -752,7 +754,7 @@ arug_que01.rsw#Pradaria de Morestone#
 arug_dun01.rsw#Calabouço Subterrâneo de Castelo#
 1@orcs.rsw#Caverna Subterrânea de Orcs#
 2@orcs.rsw#Caverna Subterrânea de Orcs#
-evt_hello.rsw#Undead camp#
+evt_hello.rsw#Campo Morto#
 
 //-------------Ep 13.2----------
 1@nyd.rsw#Ninho de Nidhogg#
@@ -776,9 +778,66 @@ bra_dun02.rsw#Profundezas das Cataratas#
 
 // --- Dewata localizing
 dewata.rsw#Dewata#
-dew_in01.rsw#Inside of Jaty Tribe Village#
-dew_fild01.rsw#Dewata Field_Jaty Tribe Village#
-dew_dun01.rsw#Krakatau Volcano Island#
-dew_dun02.rsw#Istana Cave#
+dew_in01.rsw#Dentro da Vila da Tribo Jaty#
+dew_fild01.rsw#Campos de Dewata - Vila da tribo Jaty#
+dew_dun01.rsw#Vulcão Krakatau Volcano#
+dew_dun02.rsw#Caverna Istana#
+
+// ---- Ep 14.1 -------------
+bif_fild01.rsw#Floresta da Neblina - Sul de Bifröst#
+bif_fild02.rsw#Floresta da Neblina - Norte de Bifröst#
+mora.rsw#Mora - A Vila dos Rafflen#
+dic_in01.rsw#Casa em Dicastes#
+1@mist.rsw#Labirinto da Neblina#
+dicastes01.rsw#El Dicastes, Cidade Capital dos Manuks#
+dicastes02.rsw#Floresta Brumbeld Jorhi#
+dic_fild01.rsw#Campos de El Dicastes 01#
+dic_fild02.rsw#Campos de El Dicastes 02#
+dic_dun01.rsw#Túnel Kamidal 01#
+dic_dun02.rsw#Túnel Kamidal 02#
+dic_dun03.rsw#Túnel Kamidal - Pesadelo#
+
+//------------------2013 ep14.1 malangdo---------------------------
+malangdo.rsw#Malangdo - A Ilha da Pata de Gato#
+mal_in01.rsw#Interior de Malangdo#
+mal_in02.rsw#Interior do navio#
+// ?????? ????
+mal_dun01.rsw#Área de Coral Estrelado#
+1@cash.rsw#Caverna do Polvo#
+1@pump.rsw#Esgotos de malangdo#
+2@pump.rsw#Esgotos de malangdo#
 
 
+//------2013 Abyss and Biolab 4th----------------------
+lhz_dun04.rsw#Laboratório de Somatologia #
+que_lhz.rsw#Laboratório de Somatologia #
+1@lhz.rsw#Laboratório de Wolfchev#
+gld_dun01_2.rsw#2º calabouço da Guilda#
+gld_dun02_2.rsw#2º calabouço da Guilda#
+gld_dun03_2.rsw#2º calabouço da Guilda#
+gld_dun04_2.rsw#2º calabouço da Guilda#
+gld2_ald.rsw#Portal do Abismo: Lágrimas do Herói#
+gld2_gef.rsw#Portal do Abismo: Colina dos Mortos#
+gld2_pay.rsw#Portal do Abismo: Ventos Ancestrais#
+gld2_prt.rsw#Portal do Abismo: Caminho do Guerreiro#
+
+// ---------- Port Malaya To add ------------
+malaya.rsw#Porto Malaya#
+ma_fild01.rsw#Baryo Mahiwaga#
+ma_fild02.rsw#Floresta#
+ma_scene01.rsw#Lago Bakonawa#
+ma_in01.rsw#Interior de Malaya#
+ma_dun01.rsw#Hospital de Bangungot, 1º andar#
+1@ma_h.rsw#Hospital de Bangungot, 2º andar#
+1@ma_c.rsw#Caverna Buwaya#
+1@ma_b.rsw#Esconderijo Bakonawa#
+ma_zif01.rsw#Interior de Jeepney#
+ma_zif02.rsw#Interior de Jeepney#
+ma_zif03.rsw#Interior de Jeepney#
+ma_zif04.rsw#Interior de Jeepney#
+ma_zif05.rsw#Interior de Jeepney#
+ma_zif06.rsw#Interior de Jeepney#
+ma_zif07.rsw#Interior de Jeepney#
+ma_zif08.rsw#Interior de Jeepney#
+ma_zif09.rsw#Interior de Jeepney#
+job_ko.rsw#Lugar Escondido#

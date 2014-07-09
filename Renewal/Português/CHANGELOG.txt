@@ -3,6 +3,76 @@ Será postado aqui as atualizações feitas pelo servidor oficial bRO (Brasil Ra
 http://game.levelupgames.com.br/ragnarok/
 
 by JulioCF para o Cronus-Emulator
+//--------------- 08/07/2014 ----------------\\
+link: http://levelupgames.uol.com.br/ragnarok/noticias/notas-de-atualizacao/notas-de-atualizacao-de-08-07-2014.lhtml
+08/07/2014
+Notas de Atualização de 08/07/2014
+
+As seguintes alterações foram realizadas durante a manutenção dos servidores de Ragnarök do dia 17/06/2014:
+
+Novidades:
+
+Vendas Temporárias – Até 14/07/14
+
+Chifre de Búfalo [1]
+
+Um ornamento feito com Chifres de Búfalo.
+Você pode sentir todo o seu poder apenas observando este acessório.
+Velocidade de ataque +1. Adiciona +1 na Velocidade de Ataque quando equipado com o Chifre de Bisão.
+Tipo: Acessório
+Defesa: 0
+Peso: 10
+Nível Necessário: 10
+Classes: Todas 
+
+Lâmpada Mágica [1]
+
+De acordo com a lenda, se vocês esfregasse essa lâmpada, libertaria o poderoso Gênio de Rachel, que te concederia 3 desejos. Pena que o Alladino passou na sua frente e o libertou. Ainda assim, com esta lâmpada “você nunca teve uma sorte assim”!
+SOR +10
+Tipo: Equipamento para a Cabeça
+Defesa: 3
+Equipa em: Topo
+Peso: 10
+Nível Necessário: 1
+Classes: Todas
+
+Tapete Voador
+
+Quando você entrou nas catacumbas de Rachel à procura da famosa lâmpada mágica, acabou sendo perseguido por uma verdadeira onda de magmarings. Pra sua sorte, este tapete mágico apareceu e o salvou num piscar de olhos.
+Agi +1
+Habilita o uso da habilidade Teleporte Nv.2
+Tipo: Acessório
+Defesa: 0
+Peso: 80
+Nível Necessário: 70
+Classes: Todas
+
+Asas da Vitória
+
+Um belo acessório feito com penas de Valquírias e joias preciosas, capaz de atrair boas vibrações e motivá-lo a vencer!
+Tipo: Visual
+Defesa: 0
+Equipa em: Topo e Meio
+Peso: 0
+Nível Necessário: 1
+Classe: Todas
+
+
+Continua:
+- Quest do Torneio Global em todos os servidores - até 14/07/14.
+
+
+Remoções:
+- venda do Chapéu de Shiba Inu Preto [1] e da Coleira da Fidelidade [1], em todos os servidores.
+
+
+Correções:
+
+- O item Chapéu de Bebê Dragão não fornecia 6 de Defesa conforme sua descrição; agora, ele funciona corretamente;
+- Corrigida a tradução incoerente na quest das habilidades de Mudança Elemental, onde, independente de qual opção fosse selecionada, os diálogos do NPC misturariam os elementos, deixando a quest confusa;
+- Os itens Kronos, Cajado da Árvore Morta e Bastão de Lágrimas [2] forneciam valores fixos de Ataque mágico ao invés de porcentagem; suas descrições foram alteradas para condizer com os valores de Ataque mágico proporcionado;
+- O item Krieg [3] possuía um erro de digitação em sua descrição;
+- O item Cartola Mágica agora fornece +1 de INT, conforme sua descrição.
 // -------------- 01/10/2013 ----------------\\
 Link: http://levelupgames.uol.com.br/ragnarok/noticias/notas-de-atualizacao/notas-de-manutencao-de-01-10-13.lhtml
 
